@@ -1,0 +1,14 @@
+commons-digester,simonetripodi,simonetripodi@apache.org
+commons-digester,itstechupnorth,None
+commons-digester,rahu1,None
+commons-digester,sebbASF,None
+commons-digester,olamy,olamy@apache.org
+commons-digester,jstrachan,james.strachan@gmail.com
+commons-digester,mdiggory,None
+commons-digester,mbenson,gudnabrsam@gmail.com
+commons-digester,dennisl,None
+commons-digester,jvanzyl,jason@takari.io
+commons-digester,baahmi,None
+commons-digester,brettporter,brett@apache.org
+commons-digester,ted-husted,None
+commons-digester,YoavShapira,None

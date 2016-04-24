@@ -1,0 +1,10 @@
+incubator-omid,francisco-perez-sorrosal,None
+incubator-omid,ikatkov,None
+incubator-omid,omid-ci,None
+incubator-omid,ivankelly,ivan@ivankelly.net
+incubator-omid,dgomezferro,None
+incubator-omid,fpj,fpj@apache.org
+incubator-omid,sameerp,None
+incubator-omid,matthieumorel,None
+incubator-omid,shanbin,None
+incubator-omid,ohadshacham,None

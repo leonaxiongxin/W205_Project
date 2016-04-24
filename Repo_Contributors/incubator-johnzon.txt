@@ -1,0 +1,5 @@
+incubator-johnzon,rmannibucau,None
+incubator-johnzon,salyh,hendrikdev22@gmail.com
+incubator-johnzon,rsandtner,rsandtner@apache.org
+incubator-johnzon,struberg,struberg@yahoo.de
+incubator-johnzon,ANierbeck,None

@@ -1,0 +1,14 @@
+incubator-unomi,sergehuber,None
+incubator-unomi,tdraier,tdraier@jahia.com
+incubator-unomi,shyrkov,None
+incubator-unomi,jkevan,kevan@jahia.com
+incubator-unomi,metacosm,None
+incubator-unomi,qlamerand,None
+incubator-unomi,jbonofre,jbonofre@apache.org
+incubator-unomi,dgriffon,None
+incubator-unomi,cedmail,None
+incubator-unomi,rmora,rmora@jahia.com
+incubator-unomi,jahia-ci,None
+incubator-unomi,rizak,rahmed@jahia.com
+incubator-unomi,blackclara,None
+incubator-unomi,faissah,None

@@ -1,0 +1,5 @@
+couchdb-ddoc-cache,davisp,paul.joseph.davis@gmail.com
+couchdb-ddoc-cache,rnewson,rnewson@apache.org
+couchdb-ddoc-cache,kocolosk,adam@kocolosk.net
+couchdb-ddoc-cache,kxepal,None
+couchdb-ddoc-cache,mikewallace1979,mikewallace@apache.org

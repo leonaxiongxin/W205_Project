@@ -1,0 +1,6 @@
+couchdb-khash,davisp,paul.joseph.davis@gmail.com
+couchdb-khash,kxepal,None
+couchdb-khash,wohali,wohali@atypical.net
+couchdb-khash,eiri,eiri@eiri.ca
+couchdb-khash,nickva,None
+couchdb-khash,rnewson,rnewson@apache.org

@@ -1,0 +1,14 @@
+buildr,realityforge,None
+buildr,djspiewak,djspiewak@gmail.com
+buildr,vic,vborja@apache.org
+buildr,matthieu,matthieu@offthelip.org
+buildr,atoulme,antoine@lunar-ocean.com
+buildr,cacoco,@cacoco
+buildr,jpcaruana,None
+buildr,pepijnve,None
+buildr,neher,None
+buildr,vanto,None
+buildr,PeterDaveHello,None
+buildr,ngiger,niklaus.giger@member.fsf.org
+buildr,tquach,hello@tanquach.com
+buildr,daniperez,None

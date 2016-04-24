@@ -1,0 +1,7 @@
+cxf-xjc-utils,dkulp,dan@kulp.com
+cxf-xjc-utils,coheigea,None
+cxf-xjc-utils,cschneider,None
+cxf-xjc-utils,lauroschuck,None
+cxf-xjc-utils,ffang,None
+cxf-xjc-utils,spark404,htrippaers@schubergphilis.com
+cxf-xjc-utils,mbert,None

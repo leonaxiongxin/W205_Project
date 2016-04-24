@@ -1,0 +1,2 @@
+uima-ruta,reckart,None
+uima-ruta,renaud,renaud at apache.org

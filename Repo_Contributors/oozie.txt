@@ -1,0 +1,11 @@
+oozie,rkanter,None
+oozie,r0hini,None
+oozie,egashira,None
+oozie,bowenzhangusa,None
+oozie,monachitnis,None
+oozie,angeloh,angeloh@apache.org
+oozie,shwethags,None
+oozie,QwertyManiac,harsh@harshj.com
+oozie,virag,None
+oozie,danielshahaf,danielsh apache org
+oozie,mislam77,None

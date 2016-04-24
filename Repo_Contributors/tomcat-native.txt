@@ -1,0 +1,6 @@
+tomcat-native,mturk,mturk@jboss.org
+tomcat-native,markt-asf,None
+tomcat-native,rmaucher,None
+tomcat-native,jimjag,None
+tomcat-native,wrowe,wrowe@rowe-clan.net
+tomcat-native,costinm,costin@apache.org

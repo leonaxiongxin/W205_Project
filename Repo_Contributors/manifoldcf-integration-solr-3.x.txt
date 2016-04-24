@@ -1,0 +1,16 @@
+manifoldcf-integration-solr-3.x,rmuir,rmuir@apache.org
+manifoldcf-integration-solr-3.x,mikemccand,mail@mikemccandless.com
+manifoldcf-integration-solr-3.x,yonik,None
+manifoldcf-integration-solr-3.x,uschindler,None
+manifoldcf-integration-solr-3.x,sarowe,sarowe@apache.org
+manifoldcf-integration-solr-3.x,gsingers,None
+manifoldcf-integration-solr-3.x,hossman,None
+manifoldcf-integration-solr-3.x,markrmiller,markrmiller@apache.org
+manifoldcf-integration-solr-3.x,s1monw,simonw@apache.org
+manifoldcf-integration-solr-3.x,mvgsoftware,None
+manifoldcf-integration-solr-3.x,shalinmangar,None
+manifoldcf-integration-solr-3.x,janhoy,None
+manifoldcf-integration-solr-3.x,dweiss,None
+manifoldcf-integration-solr-3.x,erikhatcher,None
+manifoldcf-integration-solr-3.x,danielshahaf,danielsh apache org
+manifoldcf-integration-solr-3.x,sabe1,shinichiro@apache.org

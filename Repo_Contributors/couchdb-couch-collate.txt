@@ -1,0 +1,2 @@
+couchdb-couch-collate,wohali,wohali@atypical.net
+couchdb-couch-collate,benoitc,bchesneau@gmail.com

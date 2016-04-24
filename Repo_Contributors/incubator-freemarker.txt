@@ -1,0 +1,8 @@
+incubator-freemarker,ddekany,ddekany@freemail.hu
+incubator-freemarker,szegedi,None
+incubator-freemarker,woonsanko,None
+incubator-freemarker,woonsan,None
+incubator-freemarker,mkleine,None
+incubator-freemarker,gamerson,gregory.amerson@liferay.com
+incubator-freemarker,chaquotay,None
+incubator-freemarker,nanlei,nanlei1987@gmail.com

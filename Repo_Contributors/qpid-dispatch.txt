@@ -1,0 +1,8 @@
+qpid-dispatch,ted-ross,None
+qpid-dispatch,ganeshmurthy,None
+qpid-dispatch,ErnieAllen,None
+qpid-dispatch,kgiusti,kgiusti@gmail.com
+qpid-dispatch,ChugR,None
+qpid-dispatch,ssorj,None
+qpid-dispatch,alanconway,None
+qpid-dispatch,gemmellr,None

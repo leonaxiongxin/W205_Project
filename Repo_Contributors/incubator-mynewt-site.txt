@@ -1,0 +1,11 @@
+incubator-mynewt-site,aditihilbert,None
+incubator-mynewt-site,paulfdietrich,None
+incubator-mynewt-site,mkiiskila,None
+incubator-mynewt-site,spoonofpower,None
+incubator-mynewt-site,wes3,None
+incubator-mynewt-site,sterlinghughes,sterling@apache.org
+incubator-mynewt-site,dmatrix,None
+incubator-mynewt-site,gj262,None
+incubator-mynewt-site,neelnatu,None
+incubator-mynewt-site,ccollins476ad,None
+incubator-mynewt-site,xueliu,None

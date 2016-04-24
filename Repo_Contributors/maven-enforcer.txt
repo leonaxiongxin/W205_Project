@@ -1,0 +1,14 @@
+maven-enforcer,brianf,None
+maven-enforcer,khmarbaise,github@soebes.com
+maven-enforcer,rfscholte,rfscholte@apache.org
+maven-enforcer,olamy,olamy@apache.org
+maven-enforcer,bentmann,None
+maven-enforcer,hboutemy,hboutemy@apache.org
+maven-enforcer,pgier,None
+maven-enforcer,dennisl,None
+maven-enforcer,brettporter,brett@apache.org
+maven-enforcer,aheritier,aheritier@apache.org
+maven-enforcer,krosenvold,kristian.rosenvold@gmail.com
+maven-enforcer,mfriedenhagen,None
+maven-enforcer,ndeloof,nicolas.deloof@gmail.com
+maven-enforcer,stephenc,None

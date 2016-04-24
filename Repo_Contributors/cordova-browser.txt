@@ -1,0 +1,13 @@
+cordova-browser,stevengill,stevengill97@gmail.com
+cordova-browser,purplecabbage,None
+cordova-browser,TimBarham,tim.barham@microsoft.com
+cordova-browser,surajpindoria,suraj.pindoria@yahoo.com
+cordova-browser,daserge,None
+cordova-browser,sosahvictor,sosah.victor@gmail.com
+cordova-browser,nikhilkh,nikhilkh@microsoft.com
+cordova-browser,vladimir-kotikov,v-vlkoti@microsoft.com
+cordova-browser,cmarcelk,None
+cordova-browser,mmocny,mmocny@gmail.com
+cordova-browser,kirkshoop,None
+cordova-browser,peutetre,paul@42loops.com
+cordova-browser,brianleroux,b@brian.io

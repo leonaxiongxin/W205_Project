@@ -1,0 +1,8 @@
+incubator-slider,steveloughran,None
+incubator-slider,sumitmohanty,sumit.mohanty@gmail.com
+incubator-slider,tedyu,None
+incubator-slider,gsaha,None
+incubator-slider,billierinaldi,None
+incubator-slider,jmaron,None
+incubator-slider,joshelser,josh.elser@gmail.com
+incubator-slider,shanyu,None

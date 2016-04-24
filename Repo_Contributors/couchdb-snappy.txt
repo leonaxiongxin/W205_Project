@@ -1,0 +1,8 @@
+couchdb-snappy,fdmanana,fdmanana@kernel.org
+couchdb-snappy,kxepal,None
+couchdb-snappy,benoitc,bchesneau@gmail.com
+couchdb-snappy,rnewson,rnewson@apache.org
+couchdb-snappy,TypedLambda,None
+couchdb-snappy,bryanpkc,None
+couchdb-snappy,hdiedrich,hd2010@eonblast.com
+couchdb-snappy,NorthNick,None

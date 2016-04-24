@@ -1,0 +1,3 @@
+log4j-extras,grobmeier,None
+log4j-extras,scottdeboy,None
+log4j-extras,tallpsmith,None

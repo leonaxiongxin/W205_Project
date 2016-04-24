@@ -1,0 +1,21 @@
+subversion,rhuijben,None
+subversion,danielshahaf,danielsh apache org
+subversion,brainy,brane@digiverse.si
+subversion,danielrall,None
+subversion,breser,ben@reser.org
+subversion,lgov,lgo[at]apache.org
+subversion,stylesen,stylesen@gmail.com
+subversion,sstriker,s.striker@striker.nl
+subversion,vmpn,None
+subversion,andreasstieger,astieger@suse.com
+subversion,bhuvan,None
+subversion,whitlockjc,jwhitlock@apache.org
+subversion,jamessan,jamessan@jamessan.com
+subversion,gmcdonald,None
+subversion,GabrielaBarbara,gbg@apache.org
+subversion,wsanchez,wsanchez@wsanchez.net
+subversion,jszakmeister,None
+subversion,notroj,None
+subversion,larrys,larrys@gmail.com
+subversion,Humbedooh,None
+subversion,rjollos,ryan.j.ollos@gmail.com

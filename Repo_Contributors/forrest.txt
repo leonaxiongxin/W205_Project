@@ -1,0 +1,12 @@
+forrest,rgardler,ross.gardler@microsoft.com
+forrest,scherler,None
+forrest,brondsem,dave@brondsema.net
+forrest,gmcdonald,None
+forrest,williamstw,williamstw@gmail.com
+forrest,stefanom,stefano@apache.org
+forrest,bdube,None
+forrest,unico37,unico@apache.org
+forrest,reinhard,None
+forrest,bdelacretaz,bdelacretaz@apache.org
+forrest,cziegeler,None
+forrest,dims,davanum@gmail.com

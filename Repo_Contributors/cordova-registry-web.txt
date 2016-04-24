@@ -1,0 +1,10 @@
+cordova-registry-web,stevengill,stevengill97@gmail.com
+cordova-registry-web,jbavari,None
+cordova-registry-web,muratsu,None
+cordova-registry-web,rakatyal,None
+cordova-registry-web,nikhilkh,nikhilkh@microsoft.com
+cordova-registry-web,cfjedimaster,None
+cordova-registry-web,jsoref,None
+cordova-registry-web,zombie007,None
+cordova-registry-web,cmarcelk,None
+cordova-registry-web,dblotsky,dmitry.blotsky@gmail.com

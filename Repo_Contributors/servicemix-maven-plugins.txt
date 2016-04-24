@@ -1,0 +1,4 @@
+servicemix-maven-plugins,sobkowiak,None
+servicemix-maven-plugins,gertv,gert.vanthienen@gmail.com
+servicemix-maven-plugins,ffang,None
+servicemix-maven-plugins,jbonofre,jbonofre@apache.org

@@ -1,0 +1,8 @@
+commons-imaging,britter,None
+commons-imaging,sebbASF,None
+commons-imaging,ebourg,ebourg@apache.org
+commons-imaging,cziegeler,None
+commons-imaging,mbenson,gudnabrsam@gmail.com
+commons-imaging,olamy,olamy@apache.org
+commons-imaging,jmaerki,dev@jeremias-maerki.ch
+commons-imaging,netomi,None

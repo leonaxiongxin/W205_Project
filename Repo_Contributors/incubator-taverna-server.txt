@@ -1,0 +1,5 @@
+incubator-taverna-server,dkfellows,donal.k.fellows@manchester.ac.uk
+incubator-taverna-server,stain,stian@soiland-reyes.com
+incubator-taverna-server,giancarlobi,None
+incubator-taverna-server,gmlewis,None
+incubator-taverna-server,hainesr,None

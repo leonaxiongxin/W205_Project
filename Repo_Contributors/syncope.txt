@@ -1,0 +1,13 @@
+syncope,ilgrosso,ilgrosso@apache.org
+syncope,mdisabatino,mdisabatino@apache.org
+syncope,massx1,massimiliano.perrone@tirasa.net
+syncope,fmartelli,fabio.martelli@gmail.com
+syncope,coheigea,None
+syncope,giacomolm,None
+syncope,cschneider,None
+syncope,andrea-patricelli,None
+syncope,simonetripodi,simonetripodi@apache.org
+syncope,jbonofre,jbonofre@apache.org
+syncope,danielshahaf,danielsh apache org
+syncope,facundofarias,facundo.farias@gmail.com
+syncope,xldai,xldai@talend.com

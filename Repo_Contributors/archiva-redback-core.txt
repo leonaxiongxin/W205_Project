@@ -1,0 +1,7 @@
+archiva-redback-core,olamy,olamy@apache.org
+archiva-redback-core,jbonofre,jbonofre@apache.org
+archiva-redback-core,brettporter,brett@apache.org
+archiva-redback-core,mjaggard,None
+archiva-redback-core,ebarboni,skygo@apache.org
+archiva-redback-core,chrisheyne,None
+archiva-redback-core,jdhoek,None

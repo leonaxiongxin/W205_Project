@@ -1,0 +1,2 @@
+cordova-registry,stevengill,stevengill97@gmail.com
+cordova-registry,cmarcelk,None

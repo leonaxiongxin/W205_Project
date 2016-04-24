@@ -1,0 +1,12 @@
+commons-csv,sebbASF,None
+commons-csv,britter,None
+commons-csv,ebourg,ebourg@apache.org
+commons-csv,yonik,None
+commons-csv,jacopoc,jacopo.cappellato@gmail.com
+commons-csv,dennisl,None
+commons-csv,baahmi,None
+commons-csv,mbenson,gudnabrsam@gmail.com
+commons-csv,joehni,joerg.schaible@gmx.de
+commons-csv,olamy,olamy@apache.org
+commons-csv,mebigfatguy,dbrosius@mebigfatguy.com
+commons-csv,rahu1,None

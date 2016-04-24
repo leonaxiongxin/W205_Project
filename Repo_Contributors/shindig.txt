@@ -1,0 +1,4 @@
+shindig,lindner,lindner@inuus.com
+shindig,ieb,ieb@tfd.co.uk
+shindig,sgala,sgala@apache.org
+shindig,gmcdonald,None

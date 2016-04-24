@@ -1,0 +1,3 @@
+jackrabbit-ocm,jukka,jukka@zitting.name
+jackrabbit-ocm,stillalex,alex@pfalabs.com
+jackrabbit-ocm,thomasmueller,None

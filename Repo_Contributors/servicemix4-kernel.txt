@@ -1,0 +1,7 @@
+servicemix4-kernel,gnodet,None
+servicemix4-kernel,ffang,None
+servicemix4-kernel,ccustine,chris.custine@gmail.com
+servicemix4-kernel,gertv,gert.vanthienen@gmail.com
+servicemix4-kernel,chirino,hiram@hiramchirino.com
+servicemix4-kernel,jstrachan,james.strachan@gmail.com
+servicemix4-kernel,lhein,None

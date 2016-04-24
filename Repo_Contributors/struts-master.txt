@@ -1,0 +1,6 @@
+struts-master,lukaszlenart,lukasz.lenart@gmail.com
+struts-master,mfncooper,None
+struts-master,jogep,post@jgeppert.com
+struts-master,schof,None
+struts-master,mcucchiara,mcucchiara@apache.org
+struts-master,pbenedict,None

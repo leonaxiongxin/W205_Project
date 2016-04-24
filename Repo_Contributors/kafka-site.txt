@@ -1,0 +1,7 @@
+kafka-site,junrao,None
+kafka-site,gwenshap,cshapi@gmail.com
+kafka-site,ijuma,mlists@juma.me.uk
+kafka-site,ewencp,me@ewencp.org
+kafka-site,granthenke,None
+kafka-site,guozhangwang,wangguoz@gmail.com
+kafka-site,harshach,None

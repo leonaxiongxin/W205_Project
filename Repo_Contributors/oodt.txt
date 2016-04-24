@@ -1,0 +1,14 @@
+oodt,chrismattmann,chris.mattmann@gmail.com
+oodt,buggtb,tom@analytical-labs.com
+oodt,LucaCinquini,luca.cinquini@jpl.nasa.gov
+oodt,nutjob4life,None
+oodt,rlaidlaw,None
+oodt,andrewfhart,None
+oodt,riverma,None
+oodt,tpalsulich,None
+oodt,lewismc,lewis.mcgibbney@gmail.com
+oodt,gmcdonald,None
+oodt,MJJoyce,None
+oodt,karanjeets,connect.karanjeet@gmail.com
+oodt,Cyan3,None
+oodt,sherylj,None

@@ -1,0 +1,3 @@
+james-mpt,itstechupnorth,None
+james-mpt,chibenwa,btellier@linagora.com
+james-mpt,normanmaurer,norman.maurer@googlemail.com

@@ -1,0 +1,8 @@
+nifi-site,joewitt,joewitt@apache.org
+nifi-site,mcgilman,matt.c.gilman@gmail.com
+nifi-site,apiri,None
+nifi-site,trkurc,None
+nifi-site,danbress,None
+nifi-site,bbende,None
+nifi-site,JPercivall,joepercivall@yahoo.com
+nifi-site,mattyb149,mattyb149@gmail.com

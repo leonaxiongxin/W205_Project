@@ -1,0 +1,9 @@
+incubator-beam-site,evilsoapbox,jamalone at gmail.com
+incubator-beam-site,takidau,None
+incubator-beam-site,davorbonaci,None
+incubator-beam-site,mxm,None
+incubator-beam-site,stefanobaghino,None
+incubator-beam-site,kennknowles,None
+incubator-beam-site,jbonofre,jbonofre@apache.org
+incubator-beam-site,mrtns,mrtn@nrd.io
+incubator-beam-site,lukecwik,None

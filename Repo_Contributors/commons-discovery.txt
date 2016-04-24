@@ -1,0 +1,12 @@
+commons-discovery,simonetripodi,simonetripodi@apache.org
+commons-discovery,sebbASF,None
+commons-discovery,jstrachan,james.strachan@gmail.com
+commons-discovery,mdiggory,None
+commons-discovery,dims,davanum@gmail.com
+commons-discovery,rahu1,None
+commons-discovery,itstechupnorth,None
+commons-discovery,jvanzyl,jason@takari.io
+commons-discovery,dennisl,None
+commons-discovery,costinm,costin@apache.org
+commons-discovery,mbenson,gudnabrsam@gmail.com
+commons-discovery,olamy,olamy@apache.org

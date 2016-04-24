@@ -1,0 +1,3 @@
+incubator-taverna-osgi,stain,stian@soiland-reyes.com
+incubator-taverna-osgi,Christian-B,None
+incubator-taverna-osgi,ianwdunlop,None

@@ -1,0 +1,10 @@
+commons-el,mbenson,gudnabrsam@gmail.com
+commons-el,sebbASF,None
+commons-el,olamy,olamy@apache.org
+commons-el,mdiggory,None
+commons-el,rahu1,None
+commons-el,itstechupnorth,None
+commons-el,baahmi,None
+commons-el,costinm,costin@apache.org
+commons-el,dennisl,None
+commons-el,ebourg,ebourg@apache.org

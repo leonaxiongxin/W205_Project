@@ -1,0 +1,9 @@
+tomcat80,markt-asf,None
+tomcat80,rmaucher,None
+tomcat80,violetagg,None
+tomcat80,mturk,mturk@jboss.org
+tomcat80,costinm,costin@apache.org
+tomcat80,sylvainlaurent,None
+tomcat80,YoavShapira,None
+tomcat80,olamy,olamy@apache.org
+tomcat80,jimjag,None

@@ -1,0 +1,10 @@
+incubator-s2graph,SteamShon,steamshon@apache.org
+incubator-s2graph,daewon,daewon@apache.org
+incubator-s2graph,hsleep,honeysleep@gmail.com
+incubator-s2graph,HyunsungJo,None
+incubator-s2graph,emeth-kim,None
+incubator-s2graph,elric-k,miralchul@gmail.com
+incubator-s2graph,djfwan,deejayfwan@gmail.com
+incubator-s2graph,violetblue,None
+incubator-s2graph,HeartSaVioR,kabhwan@gmail.com
+incubator-s2graph,wishoping,None

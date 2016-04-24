@@ -1,0 +1,15 @@
+sling,cziegeler,None
+sling,bdelacretaz,bdelacretaz@apache.org
+sling,rombert,robert.munteanu@gmail.com
+sling,justinedelson,None
+sling,oliverlietz,None
+sling,stefan-egli,None
+sling,raducotescu,None
+sling,tteofili,None
+sling,chetanmeh,chetan.mehrotra@gmail.com
+sling,ieb,ieb@tfd.co.uk
+sling,jukka,jukka@zitting.name
+sling,trekawek,trekawek@gmail.com
+sling,klcodanr,None
+sling,mduerig,None
+sling,thecarlhall,carl.hall@gmail.com

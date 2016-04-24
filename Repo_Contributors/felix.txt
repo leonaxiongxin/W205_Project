@@ -1,0 +1,17 @@
+felix,cziegeler,None
+felix,gnodet,None
+felix,m4rr5,marcel.offermans@luminis.eu
+felix,bosschaert,None
+felix,ccustine,chris.custine@gmail.com
+felix,chetanmeh,chetan.mehrotra@gmail.com
+felix,akarasulu,akarasulu@apache.org
+felix,srs,srs@enonic.com
+felix,gertv,gert.vanthienen@gmail.com
+felix,bobpaulin,None
+felix,ffang,None
+felix,bimargulies,None
+felix,ggezer,None
+felix,chirino,hiram@hiramchirino.com
+felix,jgoodyear,None
+felix,lsimons,mail@leosimons.com
+felix,trustin,t@motd.kr

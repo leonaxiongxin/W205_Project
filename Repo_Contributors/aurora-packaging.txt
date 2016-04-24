@@ -1,0 +1,13 @@
+aurora-packaging,wfarner,None
+aurora-packaging,jsirois,john.sirois@gmail.com
+aurora-packaging,kevints,None
+aurora-packaging,ajorgensen,andrew@andrewjorgensen.com
+aurora-packaging,maxim111333,mkhutornenko@twitter.com
+aurora-packaging,pierrecdn,None
+aurora-packaging,jfarrell,None
+aurora-packaging,ssalevan,steve.salevan@gmail.com
+aurora-packaging,keis,keijser@gmail.com
+aurora-packaging,shirchen,None
+aurora-packaging,benley,benley@gmail.com
+aurora-packaging,kthakar,kunalt@gmail.com
+aurora-packaging,mhrabovcin,None

@@ -1,0 +1,12 @@
+incubator-taverna-language,stain,stian@soiland-reyes.com
+incubator-taverna-language,menaka121,menaka12350@gmail.com
+incubator-taverna-language,dkfellows,donal.k.fellows@manchester.ac.uk
+incubator-taverna-language,alaninmcr,alan.r.williams@manchester.ac.uk
+incubator-taverna-language,Christian-B,None
+incubator-taverna-language,ianwdunlop,None
+incubator-taverna-language,fbacall,None
+incubator-taverna-language,binfalse,None
+incubator-taverna-language,galejwnaylor,None
+incubator-taverna-language,jenkins-mygrid,None
+incubator-taverna-language,ansell,None
+incubator-taverna-language,redmitry,None

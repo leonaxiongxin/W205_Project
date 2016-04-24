@@ -1,0 +1,15 @@
+climate,MJJoyce,None
+climate,andrewfhart,None
+climate,kwhitehall,None
+climate,MBoustani,boustani@jpl.nasa.gov
+climate,rlaidlaw,None
+climate,MichaelArthurAnderson,None
+climate,chrismattmann,chris.mattmann@gmail.com
+climate,jarifibrahim,jarifibrahim@gmail.com
+climate,dlnash,None
+climate,LucaCinquini,luca.cinquini@jpl.nasa.gov
+climate,veduardo,viniciuspontocom@gmail.com
+climate,smarru,smarru@apache.org
+climate,lewismc,lewis.mcgibbney@gmail.com
+climate,huikyole,None
+climate,Omkar20895,omkarreddy2008@gmail.com

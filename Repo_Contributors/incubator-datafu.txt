@@ -1,0 +1,21 @@
+incubator-datafu,matthayes,None
+incubator-datafu,jarcec,jarcec@apache.org
+incubator-datafu,william-g-vaughan,None
+incubator-datafu,jghoman,Do not send me emails
+incubator-datafu,jwills,jwills+github@cloudera.com
+incubator-datafu,rjurney,russell.jurney@gmail.com
+incubator-datafu,navteniev,nikolai.avteniev+github@gmail.com
+incubator-datafu,cw11oyd,chris.wright.lloyd@gmail.com
+incubator-datafu,jbanerjee,None
+incubator-datafu,mtiwari,None
+incubator-datafu,eyala,None
+incubator-datafu,samshah,None
+incubator-datafu,aaronjosephs,ajoseph4@binghamton.edu
+incubator-datafu,ihadanny,ido.hadanny@gmail.com
+incubator-datafu,mbastian,None
+incubator-datafu,sam-s,None
+incubator-datafu,sonalighorpade,None
+incubator-datafu,talevy,None
+incubator-datafu,mengxr,meng@databricks.com
+incubator-datafu,cestella,None
+incubator-datafu,kainoa21,None

@@ -1,0 +1,7 @@
+servicemix-website,gertv,gert.vanthienen@gmail.com
+servicemix-website,sobkowiak,None
+servicemix-website,ffang,None
+servicemix-website,jbonofre,jbonofre@apache.org
+servicemix-website,gnodet,None
+servicemix-website,jgoodyear,None
+servicemix-website,janstey,None

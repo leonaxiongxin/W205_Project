@@ -1,0 +1,15 @@
+commons-dbcp,markt-asf,None
+commons-dbcp,sebbASF,None
+commons-dbcp,netomi,None
+commons-dbcp,joehni,joerg.schaible@gmx.de
+commons-dbcp,rahu1,None
+commons-dbcp,dennisl,None
+commons-dbcp,mdiggory,None
+commons-dbcp,YoavShapira,None
+commons-dbcp,jvanzyl,jason@takari.io
+commons-dbcp,olamy,olamy@apache.org
+commons-dbcp,brettporter,brett@apache.org
+commons-dbcp,mbenson,gudnabrsam@gmail.com
+commons-dbcp,ebourg,ebourg@apache.org
+commons-dbcp,IJOL,None
+commons-dbcp,itstechupnorth,None

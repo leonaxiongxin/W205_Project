@@ -1,0 +1,8 @@
+commons-launcher,mdiggory,None
+commons-launcher,olamy,olamy@apache.org
+commons-launcher,sebbASF,None
+commons-launcher,rahu1,None
+commons-launcher,itstechupnorth,None
+commons-launcher,dennisl,None
+commons-launcher,mbenson,gudnabrsam@gmail.com
+commons-launcher,rmaucher,None

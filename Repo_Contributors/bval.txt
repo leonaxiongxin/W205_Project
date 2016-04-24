@@ -1,0 +1,5 @@
+bval,simonetripodi,simonetripodi@apache.org
+bval,mbenson,gudnabrsam@gmail.com
+bval,struberg,struberg@yahoo.de
+bval,gmcdonald,None
+bval,matzew,matzew@apache.org

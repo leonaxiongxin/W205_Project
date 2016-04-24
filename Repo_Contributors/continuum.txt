@@ -1,0 +1,11 @@
+continuum,brettporter,brett@apache.org
+continuum,batkinson,brent.atkinson@gmail.com
+continuum,olamy,olamy@apache.org
+continuum,jvanzyl,jason@takari.io
+continuum,carlossg,carlos@apache.org
+continuum,oching,None
+continuum,neonics,None
+continuum,dennisl,None
+continuum,aheritier,aheritier@apache.org
+continuum,hboutemy,hboutemy@apache.org
+continuum,ltheussl,None

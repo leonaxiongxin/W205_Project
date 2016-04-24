@@ -1,0 +1,9 @@
+logging-log4j2,remkop,None
+logging-log4j2,rgoers,rgoers@apache.org
+logging-log4j2,garydgregory,None
+logging-log4j2,jvz,mattsicker@apache.org
+logging-log4j2,mikaelstaldal,None
+logging-log4j2,scottdeboy,None
+logging-log4j2,grobmeier,None
+logging-log4j2,ihabunek,None
+logging-log4j2,olivierlemasle,None

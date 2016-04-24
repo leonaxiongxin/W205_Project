@@ -1,0 +1,12 @@
+tomee,rmannibucau,None
+tomee,dblevins,david.blevins@gmail.com
+tomee,AndyGee,agumbrecht@tomitribe.com
+tomee,tveronezi,None
+tomee,struberg,struberg@yahoo.de
+tomee,jgallimore,jon@jrg.me.uk
+tomee,mnour,nour.mohammad@gmail.com
+tomee,gmcdonald,None
+tomee,jeanouii,None
+tomee,whitlockjc,jwhitlock@apache.org
+tomee,brettporter,brett@apache.org
+tomee,danielshahaf,danielsh apache org

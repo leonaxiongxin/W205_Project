@@ -1,0 +1,6 @@
+commons-proxy,mbenson,gudnabrsam@gmail.com
+commons-proxy,sebbASF,None
+commons-proxy,dennisl,None
+commons-proxy,olamy,olamy@apache.org
+commons-proxy,rahu1,None
+commons-proxy,netomi,None

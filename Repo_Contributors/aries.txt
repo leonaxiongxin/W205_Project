@@ -1,0 +1,11 @@
+aries,bosschaert,None
+aries,gnodet,None
+aries,timothyjward,None
+aries,cschneider,None
+aries,dkulp,dan@kulp.com
+aries,notatibm,None
+aries,hughesj,None
+aries,jbonofre,jbonofre@apache.org
+aries,violetagg,None
+aries,dims,davanum@gmail.com
+aries,gmcdonald,None

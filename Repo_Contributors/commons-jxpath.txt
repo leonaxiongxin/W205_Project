@@ -1,0 +1,13 @@
+commons-jxpath,mbenson,gudnabrsam@gmail.com
+commons-jxpath,britter,None
+commons-jxpath,sebbASF,None
+commons-jxpath,ebourg,ebourg@apache.org
+commons-jxpath,mebigfatguy,dbrosius@mebigfatguy.com
+commons-jxpath,mdiggory,None
+commons-jxpath,rahu1,None
+commons-jxpath,dennisl,None
+commons-jxpath,olamy,olamy@apache.org
+commons-jxpath,jvanzyl,jason@takari.io
+commons-jxpath,itstechupnorth,None
+commons-jxpath,baahmi,None
+commons-jxpath,jstrachan,james.strachan@gmail.com

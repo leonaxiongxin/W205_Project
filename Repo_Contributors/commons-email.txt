@@ -1,0 +1,12 @@
+commons-email,netomi,None
+commons-email,britter,None
+commons-email,sebbASF,None
+commons-email,hgschmie,henning@schmiedehausen.org
+commons-email,itstechupnorth,None
+commons-email,dennisl,None
+commons-email,rahu1,None
+commons-email,olamy,olamy@apache.org
+commons-email,mdiggory,None
+commons-email,matzew,matzew@apache.org
+commons-email,dims,davanum@gmail.com
+commons-email,osi,peter.royal@pobox.com

@@ -1,0 +1,4 @@
+couchdb-nmo,robertkowalski,rok@kowalski.gd
+couchdb-nmo,garrensmith,garren.smith@gmail.com
+couchdb-nmo,greenkeeperio-bot,None
+couchdb-nmo,tmpfs,None

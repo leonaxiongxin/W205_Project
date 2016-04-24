@@ -1,0 +1,13 @@
+incubator-guacamole-server,mike-jumper,mike.jumper@guac-dev.org
+incubator-guacamole-server,jmuehlner,james.muehlner@guac-dev.org
+incubator-guacamole-server,FlintRiverSystems,None
+incubator-guacamole-server,sionc,None
+incubator-guacamole-server,flangelo,None
+incubator-guacamole-server,weckx,None
+incubator-guacamole-server,koumoula,None
+incubator-guacamole-server,dborth,None
+incubator-guacamole-server,frenche,None
+incubator-guacamole-server,lmeunier,None
+incubator-guacamole-server,moriyoshi,mozo@mozo.jp
+incubator-guacamole-server,saul-g-perez,None
+incubator-guacamole-server,rvecchio,None

@@ -1,0 +1,7 @@
+couchdb-couch-dbupdates,iilyak,2015-07-23T20:21:29
+couchdb-couch-dbupdates,robertkowalski,2015-03-14T18:58:59
+couchdb-couch-dbupdates,kxepal,2014-10-10T15:47:12
+couchdb-couch-dbupdates,rnewson,2014-07-11T16:20:45
+couchdb-couch-dbupdates,rnewson,2014-07-10T10:49:14
+couchdb-couch-dbupdates,djc,2013-08-07T16:00:37
+couchdb-couch-dbupdates,janl,2013-03-04T11:02:24

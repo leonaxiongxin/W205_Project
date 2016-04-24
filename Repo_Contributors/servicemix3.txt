@@ -1,0 +1,4 @@
+servicemix3,gnodet,None
+servicemix3,jstrachan,james.strachan@gmail.com
+servicemix3,brettporter,brett@apache.org
+servicemix3,rajdavies,rajdavies@gmail.com

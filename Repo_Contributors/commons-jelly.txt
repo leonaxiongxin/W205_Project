@@ -1,0 +1,10 @@
+commons-jelly,jstrachan,james.strachan@gmail.com
+commons-jelly,osi,peter.royal@pobox.com
+commons-jelly,brettporter,brett@apache.org
+commons-jelly,jvanzyl,jason@takari.io
+commons-jelly,itstechupnorth,None
+commons-jelly,mdiggory,None
+commons-jelly,baahmi,None
+commons-jelly,ted-husted,None
+commons-jelly,realityforge,None
+commons-jelly,YoavShapira,None

@@ -1,0 +1,5 @@
+incubator-mynewt-blinky,sterlinghughes,sterling@apache.org
+incubator-mynewt-blinky,ccollins476ad,None
+incubator-mynewt-blinky,mkiiskila,None
+incubator-mynewt-blinky,justinmclean,justin@classsoftware.com
+incubator-mynewt-blinky,wes3,None

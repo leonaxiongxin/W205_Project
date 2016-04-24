@@ -1,0 +1,3 @@
+geronimo-javamail,None,0
+geronimo-javamail,None,0
+geronimo-javamail,None,0

@@ -1,0 +1,4 @@
+james-mailbox,normanmaurer,norman.maurer@googlemail.com
+james-mailbox,chibenwa,btellier@linagora.com
+james-mailbox,itstechupnorth,None
+james-mailbox,manolo,manolo@apache.org

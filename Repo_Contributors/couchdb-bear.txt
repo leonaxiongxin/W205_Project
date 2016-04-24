@@ -1,0 +1,10 @@
+couchdb-bear,joewilliams,williams.joe@gmail.com
+couchdb-bear,banjiewen,b@banjiewen.net
+couchdb-bear,rodo,rodolphe@quiedeville.org
+couchdb-bear,kxepal,None
+couchdb-bear,uwiger,ulf@wiger.net
+couchdb-bear,dizzyd,dizzyd@dizzyd.com
+couchdb-bear,james-kelly,None
+couchdb-bear,Motiejus,desired.mta@gmail.com
+couchdb-bear,rnewson,rnewson@apache.org
+couchdb-bear,jamesc,None

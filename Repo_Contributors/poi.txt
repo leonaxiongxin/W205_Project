@@ -1,0 +1,7 @@
+poi,Gagravarr,None
+poi,maxcom,None
+poi,tballison,None
+poi,paolo-apache,None
+poi,uschindler,None
+poi,markt-asf,None
+poi,virtuald,dustin@virtualroadside.com

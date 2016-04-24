@@ -1,0 +1,10 @@
+creadur-rat,itstechupnorth,None
+creadur-rat,bodewig,stefan.bodewig@freenet.de
+creadur-rat,sebbASF,None
+creadur-rat,dennisl,None
+creadur-rat,jochenw,jochen.wiedmann@gmail.com
+creadur-rat,ottlinger,None
+creadur-rat,gmcdonald,None
+creadur-rat,brianf,None
+creadur-rat,danielshahaf,danielsh apache org
+creadur-rat,rgardler,ross.gardler@microsoft.com

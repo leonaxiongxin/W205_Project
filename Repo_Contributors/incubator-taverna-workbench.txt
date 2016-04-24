@@ -1,0 +1,4 @@
+incubator-taverna-workbench,stain,stian@soiland-reyes.com
+incubator-taverna-workbench,Christian-B,None
+incubator-taverna-workbench,dkfellows,donal.k.fellows@manchester.ac.uk
+incubator-taverna-workbench,redmitry,None

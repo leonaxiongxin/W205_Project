@@ -1,0 +1,5 @@
+lucy-clownfish,nwellnhof,wellnhofer@aevum.de
+lucy-clownfish,rectang,None
+lucy-clownfish,logie17,logie@apache.org
+lucy-clownfish,mikemccand,mail@mikemccandless.com
+lucy-clownfish,timwilkens,None

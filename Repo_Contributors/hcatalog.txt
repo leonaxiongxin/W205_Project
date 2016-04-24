@@ -1,0 +1,2 @@
+hcatalog,ashutoshc,None
+hcatalog,omalley,omalley@apache.org

@@ -1,0 +1,1 @@
+clerezza-rdf-core,retog,reto@apache.org

@@ -1,0 +1,9 @@
+commons-scxml,rahu1,None
+commons-scxml,sebbASF,None
+commons-scxml,woonsan,None
+commons-scxml,britter,None
+commons-scxml,mebigfatguy,dbrosius@mebigfatguy.com
+commons-scxml,woonsanko,None
+commons-scxml,mbenson,gudnabrsam@gmail.com
+commons-scxml,olamy,olamy@apache.org
+commons-scxml,ebourg,ebourg@apache.org

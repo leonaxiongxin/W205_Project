@@ -1,0 +1,16 @@
+sentry,pmujumdar,prasadm@apache.org
+sentry,lskuff,lskuff@cloudera.com
+sentry,brockn,brockn@gmail.com
+sentry,sundapeng,sdp@apache.org
+sentry,jarcec,jarcec@apache.org
+sentry,colinmjj,None
+sentry,grchanan,None
+sentry,shreepadma,shreepadma.venugopalan@gmail.com
+sentry,shenguoquan,gqshen@apache.org
+sentry,anneyu,anneyu@apache.org
+sentry,HuangXiaomeng,xiaom@apache.org
+sentry,annesjyu,None
+sentry,gchanan,None
+sentry,olamy,olamy@apache.org
+sentry,sravya8,None
+sentry,mohitsabharwal,None

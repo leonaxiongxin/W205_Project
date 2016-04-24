@@ -1,0 +1,3 @@
+archiva-site,olamy,olamy@apache.org
+archiva-site,brettporter,brett@apache.org
+archiva-site,ebarboni,skygo@apache.org

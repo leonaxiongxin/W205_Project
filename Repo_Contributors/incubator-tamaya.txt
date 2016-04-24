@@ -1,0 +1,6 @@
+incubator-tamaya,atsticks,atsticks@java.net
+incubator-tamaya,struberg,struberg@yahoo.de
+incubator-tamaya,johnament,john.d.ament@gmail.com
+incubator-tamaya,rsandtner,rsandtner@apache.org
+incubator-tamaya,javaconfig,None
+incubator-tamaya,rmannibucau,None

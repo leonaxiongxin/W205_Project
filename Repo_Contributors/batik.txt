@@ -1,0 +1,4 @@
+batik,cjolif,None
+batik,vhennebert,None
+batik,stefanom,stefano@apache.org
+batik,jmaerki,dev@jeremias-maerki.ch

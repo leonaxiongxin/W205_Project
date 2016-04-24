@@ -1,0 +1,6 @@
+ace,m4rr5,marcel.offermans@luminis.eu
+ace,jbonofre,jbonofre@apache.org
+ace,bdelacretaz,bdelacretaz@apache.org
+ace,cziegeler,None
+ace,briantopping,None
+ace,danielshahaf,danielsh apache org

@@ -1,0 +1,5 @@
+directory-studio,pamarcelot,None
+directory-studio,seelmann,None
+directory-studio,akarasulu,akarasulu@apache.org
+directory-studio,kayyagari,None
+directory-studio,ersiner,None

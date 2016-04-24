@@ -1,0 +1,7 @@
+couchdb-oauth,tim,None
+couchdb-oauth,janl,jan@apache.org
+couchdb-oauth,nslater,nslater@apache.org
+couchdb-oauth,benoitc,bchesneau@gmail.com
+couchdb-oauth,rnewson,rnewson@apache.org
+couchdb-oauth,davisp,paul.joseph.davis@gmail.com
+couchdb-oauth,jasondavies,None

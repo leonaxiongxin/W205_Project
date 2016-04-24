@@ -1,0 +1,4 @@
+velocity-engine,jvanzyl,jason@takari.io
+velocity-engine,hgschmie,henning@schmiedehausen.org
+velocity-engine,danielrall,None
+velocity-engine,sdumitriu,None

@@ -1,0 +1,9 @@
+stanbol,westei,rupert.westenthaler@gmail.com
+stanbol,retog,reto@apache.org
+stanbol,alexdma,None
+stanbol,enridaga,enricodaga@gmail.com
+stanbol,bdelacretaz,bdelacretaz@apache.org
+stanbol,florent-andre,None
+stanbol,tteofili,None
+stanbol,rafaharo,rharo@apache.org
+stanbol,wikier,sergio@wikier.org

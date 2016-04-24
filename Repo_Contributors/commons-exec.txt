@@ -1,0 +1,9 @@
+commons-exec,sebbASF,None
+commons-exec,britter,None
+commons-exec,brettporter,brett@apache.org
+commons-exec,olamy,olamy@apache.org
+commons-exec,dennisl,None
+commons-exec,ebourg,ebourg@apache.org
+commons-exec,joehni,joerg.schaible@gmx.de
+commons-exec,rahu1,None
+commons-exec,simonetripodi,simonetripodi@apache.org

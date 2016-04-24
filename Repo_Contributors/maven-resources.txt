@@ -1,0 +1,9 @@
+maven-resources,olamy,olamy@apache.org
+maven-resources,dennisl,None
+maven-resources,jvanzyl,jason@takari.io
+maven-resources,dkulp,dan@kulp.com
+maven-resources,bentmann,None
+maven-resources,bdemers,bdemers@apache.org
+maven-resources,hboutemy,hboutemy@apache.org
+maven-resources,brianf,None
+maven-resources,brettporter,brett@apache.org

@@ -1,0 +1,13 @@
+servicemix,sobkowiak,None
+servicemix,gertv,gert.vanthienen@gmail.com
+servicemix,ffang,None
+servicemix,wimve,verreydtw@gmail.com
+servicemix,cybermaniax,None
+servicemix,janstey,None
+servicemix,gnodet,None
+servicemix,oscerd,ancosen dot gmail dot com
+servicemix,cschneider,None
+servicemix,jbonofre,jbonofre@apache.org
+servicemix,gzurowski,gregor@zurowski.org
+servicemix,barthorre,None
+servicemix,janhoy,None

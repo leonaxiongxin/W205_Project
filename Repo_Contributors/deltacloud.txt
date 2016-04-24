@@ -1,0 +1,22 @@
+deltacloud,mfojtik,mi@mifo.sk
+deltacloud,marios,None
+deltacloud,lutter,github@watzmann.net
+deltacloud,dkoper,None
+deltacloud,rlandy,rlandy@redhat.com
+deltacloud,jvlcek,jvlcek@redhat.com
+deltacloud,NjeriChelimo,martha.c.chumo@gmail.com
+deltacloud,tomassedovic,tomas@sedovic.cz
+deltacloud,razorinc,None
+deltacloud,oourfali,ovedo@redhat.com
+deltacloud,imain,None
+deltacloud,efcasado,None
+deltacloud,dsander,None
+deltacloud,jprovaznik,jan.provaznik@gmail.com
+deltacloud,karnath,None
+deltacloud,cgoncalves,mail@cgoncalves.pt
+deltacloud,dmamolina,dmamolina@gmail.com
+deltacloud,danielshahaf,danielsh apache org
+deltacloud,dellinger,david.ellinger@me.com
+deltacloud,gbagnoli,None
+deltacloud,hen,None
+deltacloud,bz2,None

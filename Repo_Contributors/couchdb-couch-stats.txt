@@ -1,0 +1,7 @@
+couchdb-couch-stats,banjiewen,b@banjiewen.net
+couchdb-couch-stats,rnewson,rnewson@apache.org
+couchdb-couch-stats,davisp,paul.joseph.davis@gmail.com
+couchdb-couch-stats,iilyak,None
+couchdb-couch-stats,kxepal,None
+couchdb-couch-stats,mikewallace1979,mikewallace@apache.org
+couchdb-couch-stats,chewbranca,None

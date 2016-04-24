@@ -1,0 +1,14 @@
+apr-util,wrowe,wrowe@rowe-clan.net
+apr-util,trawick,trawick@gmail.com
+apr-util,notroj,None
+apr-util,fanf2,dot@dotat.at
+apr-util,dougm,None
+apr-util,minfrin,None
+apr-util,sstriker,s.striker@striker.nl
+apr-util,abannert,aaron-github@codemass.com
+apr-util,wsanchez,wsanchez@wsanchez.net
+apr-util,brainy,brane@digiverse.si
+apr-util,jimjag,None
+apr-util,covener,covener@apache.org
+apr-util,RoUS,The.Rodent.of.Unusual.Size@GMail.Com
+apr-util,pquerna,pquerna@apache.org

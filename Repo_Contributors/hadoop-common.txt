@@ -1,0 +1,9 @@
+hadoop-common,cutting,cutting@apache.org
+hadoop-common,omalley,omalley@apache.org
+hadoop-common,cdouglas,cdouglas@apache.org
+hadoop-common,acmurthy,acm@hortonworks.com
+hadoop-common,rangadi,None
+hadoop-common,shvachko,None
+hadoop-common,enis,enis[at]apache.org
+hadoop-common,zshao,zshao9@gmail.com
+hadoop-common,steveloughran,None

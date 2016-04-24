@@ -1,0 +1,12 @@
+couchdb-mango,davisp,paul.joseph.davis@gmail.com
+couchdb-mango,tonysun83,tony.sun@cloudant.com
+couchdb-mango,kocolosk,adam@kocolosk.net
+couchdb-mango,kxepal,None
+couchdb-mango,rnewson,rnewson@apache.org
+couchdb-mango,robertkowalski,rok@kowalski.gd
+couchdb-mango,iilyak,None
+couchdb-mango,wohali,wohali@atypical.net
+couchdb-mango,brkolla,None
+couchdb-mango,ksnavely,None
+couchdb-mango,KlausTrainer,klaus_trainer@apache.org
+couchdb-mango,eiri,eiri@eiri.ca

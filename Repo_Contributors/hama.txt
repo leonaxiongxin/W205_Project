@@ -1,0 +1,12 @@
+hama,edwardyoon,edwardyoon@apache.org
+hama,tteofili,None
+hama,millecker,None
+hama,ssmenon,None
+hama,hyunsik,hyunsik.choi@gmail.com
+hama,andronat,None
+hama,aliquot,None
+hama,eoriented,minwise.kim@samung.com
+hama,Cazen,cazen.lee@gmail.com
+hama,bsikander,bsikander@apache.org
+hama,danielshahaf,danielsh apache org
+hama,lime62,None

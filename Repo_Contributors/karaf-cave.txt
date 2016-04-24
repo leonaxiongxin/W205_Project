@@ -1,0 +1,2 @@
+karaf-cave,jbonofre,jbonofre@apache.org
+karaf-cave,olamy,olamy@apache.org

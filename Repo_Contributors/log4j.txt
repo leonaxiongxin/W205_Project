@@ -1,0 +1,4 @@
+log4j,tallpsmith,None
+log4j,scottdeboy,None
+log4j,YoavShapira,None
+log4j,pfumagalli,pier@usrz.com

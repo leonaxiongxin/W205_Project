@@ -1,0 +1,6 @@
+servicemix-components,ffang,None
+servicemix-components,gertv,gert.vanthienen@gmail.com
+servicemix-components,jbonofre,jbonofre@apache.org
+servicemix-components,lhein,None
+servicemix-components,iocanel,iocanel@gmail.com
+servicemix-components,WillemJiang,None

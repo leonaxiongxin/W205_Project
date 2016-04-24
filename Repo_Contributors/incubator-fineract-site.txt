@@ -1,0 +1,2 @@
+incubator-fineract-site,gstein,None
+incubator-fineract-site,rvs,roman@shaposhnik.org

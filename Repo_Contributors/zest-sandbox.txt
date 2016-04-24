@@ -1,0 +1,7 @@
+zest-sandbox,niclash,niclas@hedhman.org
+zest-sandbox,edward-yakop,edward.yakop@gmail.com
+zest-sandbox,eskatos,None
+zest-sandbox,adreghiciu,adreghiciu@gmail.com
+zest-sandbox,pvdyck,None
+zest-sandbox,rickardoberg,None
+zest-sandbox,jankronquist,None

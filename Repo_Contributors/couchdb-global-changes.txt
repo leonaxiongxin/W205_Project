@@ -1,0 +1,8 @@
+couchdb-global-changes,iilyak,None
+couchdb-global-changes,kxepal,None
+couchdb-global-changes,rnewson,rnewson@apache.org
+couchdb-global-changes,sagelywizard,benjamin.bastian@gmail.com
+couchdb-global-changes,davisp,paul.joseph.davis@gmail.com
+couchdb-global-changes,janl,jan@apache.org
+couchdb-global-changes,nickva,None
+couchdb-global-changes,robfraz,None

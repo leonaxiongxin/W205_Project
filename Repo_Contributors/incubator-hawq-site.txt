@@ -1,0 +1,4 @@
+incubator-hawq-site,rvs,roman@shaposhnik.org
+incubator-hawq-site,sansanichfb,None
+incubator-hawq-site,shivzone,shivram.mani@gmail.com
+incubator-hawq-site,dyozie,dyozie@pivotal.io

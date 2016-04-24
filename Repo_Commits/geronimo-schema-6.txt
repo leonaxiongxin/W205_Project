@@ -1,0 +1,9 @@
+geronimo-schema-6,None,0
+geronimo-schema-6,None,0
+geronimo-schema-6,None,0
+geronimo-schema-6,None,0
+geronimo-schema-6,None,0
+geronimo-schema-6,None,0
+geronimo-schema-6,None,0
+geronimo-schema-6,None,0
+geronimo-schema-6,None,0

@@ -1,0 +1,3 @@
+airavata-site,smarru,smarru@apache.org
+airavata-site,nipunhere,nipurn.doshi@gmail.com
+airavata-site,marpierc,marpierc@iu.edu

@@ -1,0 +1,6 @@
+struts-archive,lukaszlenart,lukasz.lenart@gmail.com
+struts-archive,ted-husted,None
+struts-archive,rgielen,None
+struts-archive,jogep,post@jgeppert.com
+struts-archive,grobmeier,None
+struts-archive,mcucchiara,mcucchiara@apache.org

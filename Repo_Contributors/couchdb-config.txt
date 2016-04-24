@@ -1,0 +1,9 @@
+couchdb-config,kocolosk,adam@kocolosk.net
+couchdb-config,kxepal,None
+couchdb-config,chewbranca,None
+couchdb-config,iilyak,None
+couchdb-config,rnewson,rnewson@apache.org
+couchdb-config,davisp,paul.joseph.davis@gmail.com
+couchdb-config,banjiewen,b@banjiewen.net
+couchdb-config,jaydoane,github.com@jay.m82.com
+couchdb-config,KlausTrainer,klaus_trainer@apache.org

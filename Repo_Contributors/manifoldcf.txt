@@ -1,0 +1,10 @@
+manifoldcf,OpenPj,None
+manifoldcf,sabe1,shinichiro@apache.org
+manifoldcf,rafaharo,rharo@apache.org
+manifoldcf,maoo,maoo@apache.org
+manifoldcf,rmuir,rmuir@apache.org
+manifoldcf,kishorejangid,kishorejangid@live.com
+manifoldcf,gsingers,None
+manifoldcf,danielshahaf,danielsh apache org
+manifoldcf,markrmiller,markrmiller@apache.org
+manifoldcf,tteofili,None

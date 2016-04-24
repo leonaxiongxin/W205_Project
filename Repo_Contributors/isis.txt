@@ -1,0 +1,23 @@
+isis,danhaywood,dan@haywood-associates.co.uk
+isis,martin-g,mgrigorov at apache org
+isis,jcvanderwal,jeroen@stromboli.it
+isis,jdbranham,None
+isis,joerg-rade,joerg.rade60@gmail.com
+isis,rcmatthews,None
+isis,oscarbou,None
+isis,mnour,nour.mohammad@gmail.com
+isis,struberg,struberg@yahoo.de
+isis,DImuthuUpe,dimuthu.upeksha2@gmail.com
+isis,bibryam,bibryam@gmail.com
+isis,sebadiaz,None
+isis,sanderginn,None
+isis,johandoornenbal,johan@filternet.nl
+isis,bhargavgolla,bhargav.golla@gmail.com
+isis,danielshahaf,danielsh apache org
+isis,mbppower,None
+isis,michalbcz,michal@bernhard.cz
+isis,influence160,tiliouine.othmen@gmail.com
+isis,rhosdev,None
+isis,rkalis,None
+isis,YuRiTan,mail@yuritan.nl
+isis,niv0,None

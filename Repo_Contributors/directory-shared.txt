@@ -1,0 +1,8 @@
+directory-shared,akarasulu,akarasulu@apache.org
+directory-shared,seelmann,None
+directory-shared,pamarcelot,None
+directory-shared,kayyagari,None
+directory-shared,ersiner,None
+directory-shared,ccustine,chris.custine@gmail.com
+directory-shared,trustin,t@motd.kr
+directory-shared,jimjag,None

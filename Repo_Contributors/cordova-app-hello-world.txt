@@ -1,0 +1,20 @@
+cordova-app-hello-world,mwbrooks,michael@michaelbrooks.ca
+cordova-app-hello-world,stevengill,stevengill97@gmail.com
+cordova-app-hello-world,agrieve,agrieve@chromium.org
+cordova-app-hello-world,purplecabbage,None
+cordova-app-hello-world,cmarcelk,None
+cordova-app-hello-world,mmocny,mmocny@gmail.com
+cordova-app-hello-world,nikhilkh,nikhilkh@microsoft.com
+cordova-app-hello-world,filmaj,fil@saucelabs.com
+cordova-app-hello-world,jamesjong,None
+cordova-app-hello-world,jsoref,None
+cordova-app-hello-world,brianleroux,b@brian.io
+cordova-app-hello-world,zalun,piotr [at] zalewa.info
+cordova-app-hello-world,sarangan12,None
+cordova-app-hello-world,shazron,shazron@gmail.com
+cordova-app-hello-world,marti1125,marti1125@gmail.com
+cordova-app-hello-world,yoheishimomae,None
+cordova-app-hello-world,daserge,None
+cordova-app-hello-world,gasp,None
+cordova-app-hello-world,lmnbeyond,lmnbeyond@gmail.com
+cordova-app-hello-world,sgrebnov,sergei.grebnov@gmail.com

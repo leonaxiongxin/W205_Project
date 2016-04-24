@@ -1,0 +1,5 @@
+incubator-taverna-common-activities,stain,stian@soiland-reyes.com
+incubator-taverna-common-activities,Christian-B,None
+incubator-taverna-common-activities,alaninmcr,alan.r.williams@manchester.ac.uk
+incubator-taverna-common-activities,dkfellows,donal.k.fellows@manchester.ac.uk
+incubator-taverna-common-activities,redmitry,None

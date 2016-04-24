@@ -1,0 +1,18 @@
+gora,lewismc,lewis.mcgibbney@gmail.com
+gora,drazzib,drazzib@drazzib.com
+gora,hsaputra,hsaputra@apache.org
+gora,kamaci,None
+gora,iocanel,iocanel@gmail.com
+gora,chrismattmann,chris.mattmann@gmail.com
+gora,renato2099,rmarroquin@apache.org
+gora,enis,enis[at]apache.org
+gora,keith-turner,None
+gora,jnioche,julien@digitalpebble.com
+gora,alfonsonishikawa,alfonso.nishikawa@gmail.com
+gora,danielshahaf,danielsh apache org
+gora,cguzel,cguzelg@gmail.com
+gora,dobromyslov,viacheslav@dobromyslov.ru
+gora,MJJoyce,None
+gora,emopers,None
+gora,talatuyarer,talat@uyarer.com
+gora,vijuk,None

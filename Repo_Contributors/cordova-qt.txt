@@ -1,0 +1,11 @@
+cordova-qt,longwei,longwei.su@gmail.com
+cordova-qt,Viras-,None
+cordova-qt,imhotep,anis.kadri@gmail.com
+cordova-qt,tranter,jtranter@ics.com
+cordova-qt,igordsm,None
+cordova-qt,dkormalev,kormalev.denis@gmail.com
+cordova-qt,arendjr,None
+cordova-qt,cmarcelk,None
+cordova-qt,stevengill,stevengill97@gmail.com
+cordova-qt,cip,None
+cordova-qt,mwbrooks,michael@michaelbrooks.ca

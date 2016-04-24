@@ -1,0 +1,12 @@
+servicemix4-bundles,jbonofre,jbonofre@apache.org
+servicemix4-bundles,gnodet,None
+servicemix4-bundles,gertv,gert.vanthienen@gmail.com
+servicemix4-bundles,ffang,None
+servicemix4-bundles,WillemJiang,None
+servicemix4-bundles,iocanel,iocanel@gmail.com
+servicemix4-bundles,ccustine,chris.custine@gmail.com
+servicemix4-bundles,lhein,None
+servicemix4-bundles,dkulp,dan@kulp.com
+servicemix4-bundles,cmoulliard,ch007m@gmail.com
+servicemix4-bundles,janstey,None
+servicemix4-bundles,jstrachan,james.strachan@gmail.com

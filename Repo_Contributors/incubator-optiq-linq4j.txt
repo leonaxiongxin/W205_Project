@@ -1,0 +1,7 @@
+incubator-optiq-linq4j,julianhyde,None
+incubator-optiq-linq4j,vlsi,None
+incubator-optiq-linq4j,cwensel,chris@wensel.net
+incubator-optiq-linq4j,jganoff,None
+incubator-optiq-linq4j,wseidel,wesley.seidel@gmail.com
+incubator-optiq-linq4j,lesleh,None
+incubator-optiq-linq4j,pstoellberger,None

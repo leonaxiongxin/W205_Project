@@ -1,0 +1,5 @@
+chukwa,cdouglas,cdouglas@apache.org
+chukwa,omalley,omalley@apache.org
+chukwa,cutting,cutting@apache.org
+chukwa,acmurthy,acm@hortonworks.com
+chukwa,lewismc,lewis.mcgibbney@gmail.com

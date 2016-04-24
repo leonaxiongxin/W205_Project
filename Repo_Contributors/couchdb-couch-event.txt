@@ -1,0 +1,5 @@
+couchdb-couch-event,davisp,paul.joseph.davis@gmail.com
+couchdb-couch-event,iilyak,None
+couchdb-couch-event,kocolosk,adam@kocolosk.net
+couchdb-couch-event,kxepal,None
+couchdb-couch-event,rnewson,rnewson@apache.org

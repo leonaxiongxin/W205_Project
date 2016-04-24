@@ -1,0 +1,16 @@
+couchdb-jiffy,davisp,paul.joseph.davis@gmail.com
+couchdb-jiffy,kxepal,None
+couchdb-jiffy,iwamatsu,iwamatsu@gmail.com
+couchdb-jiffy,ratelle,None
+couchdb-jiffy,wohali,wohali@atypical.net
+couchdb-jiffy,pguyot,None
+couchdb-jiffy,benoitc,bchesneau@gmail.com
+couchdb-jiffy,clonejo,clonejo@shakik.de
+couchdb-jiffy,dch,dch@skunkwerks.at
+couchdb-jiffy,jeraymond,None
+couchdb-jiffy,lpgauth,lpgauth@gmail.com
+couchdb-jiffy,rnewson,rnewson@apache.org
+couchdb-jiffy,urbanserj,None
+couchdb-jiffy,vishnevskiy,vishnevskiy@gmail.com
+couchdb-jiffy,tuncer,None
+couchdb-jiffy,vmx,volker.mische@gmail.com

@@ -1,0 +1,4 @@
+openjpa,mikedd,None
+openjpa,struberg,struberg@yahoo.de
+openjpa,papajdo,None
+openjpa,rmannibucau,None

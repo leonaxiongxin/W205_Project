@@ -1,0 +1,14 @@
+qpid,gemmellr,None
+qpid,ritchiem,ritchiem@apache.org
+qpid,rgodfrey,rob.j.godfrey@gmail.com
+qpid,astitcher,None
+qpid,ted-ross,None
+qpid,k-wall,None
+qpid,aidan,aidan@skinner.me.uk
+qpid,kgiusti,kgiusti@gmail.com
+qpid,grkvlt,grkvlt@apache.org
+qpid,steshaw,steven@steshaw.org
+qpid,ssorj,None
+qpid,agazzarini,a.gazzarini@gmail.com
+qpid,fadams,None
+qpid,glahiru,lahiru@apache.org

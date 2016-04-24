@@ -1,0 +1,6 @@
+commons-transaction,dennisl,None
+commons-transaction,rahu1,None
+commons-transaction,baahmi,None
+commons-transaction,sebbASF,None
+commons-transaction,brettporter,brett@apache.org
+commons-transaction,mbenson,gudnabrsam@gmail.com

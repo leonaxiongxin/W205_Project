@@ -1,0 +1,5 @@
+jmeter,sebbASF,None
+jmeter,pmouawad,None
+jmeter,milamberspace,milamber@apache.org
+jmeter,stefanom,stefano@apache.org
+jmeter,dims,davanum@gmail.com

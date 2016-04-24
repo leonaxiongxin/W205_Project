@@ -1,0 +1,5 @@
+james-mime4j,ok2c,None
+james-mime4j,itstechupnorth,None
+james-mime4j,normanmaurer,norman.maurer@googlemail.com
+james-mime4j,chibenwa,btellier@linagora.com
+james-mime4j,jochenw,jochen.wiedmann@gmail.com

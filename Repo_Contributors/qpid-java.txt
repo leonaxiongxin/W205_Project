@@ -1,0 +1,15 @@
+qpid-java,rgodfrey,rob.j.godfrey@gmail.com
+qpid-java,gemmellr,None
+qpid-java,k-wall,None
+qpid-java,ritchiem,ritchiem@apache.org
+qpid-java,aidan,aidan@skinner.me.uk
+qpid-java,grkvlt,grkvlt@apache.org
+qpid-java,qpid,None
+qpid-java,agazzarini,a.gazzarini@gmail.com
+qpid-java,ted-ross,None
+qpid-java,steshaw,steven@steshaw.org
+qpid-java,ssorj,None
+qpid-java,glahiru,lahiru@apache.org
+qpid-java,astitcher,None
+qpid-java,kgiusti,kgiusti@gmail.com
+qpid-java,fadams,None

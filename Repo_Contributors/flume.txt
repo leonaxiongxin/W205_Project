@@ -1,0 +1,11 @@
+flume,harishreedharan,None
+flume,mpercy,mpercy@gmail.com
+flume,jarcec,jarcec@apache.org
+flume,pmujumdar,prasadm@apache.org
+flume,roshannaik,None
+flume,jmhsieh,jon@cloudera.com
+flume,willix,None
+flume,rgoers,rgoers@apache.org
+flume,paliwalashish,apaliwal@apache.org
+flume,gmcdonald,None
+flume,mubarak,None

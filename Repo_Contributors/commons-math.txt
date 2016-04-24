@@ -1,0 +1,17 @@
+commons-math,netomi,None
+commons-math,sebbASF,None
+commons-math,mdiggory,None
+commons-math,psteitz,phil.steitz@gmail.com
+commons-math,oertl,None
+commons-math,itstechupnorth,None
+commons-math,mebigfatguy,dbrosius@mebigfatguy.com
+commons-math,rahu1,None
+commons-math,olamy,olamy@apache.org
+commons-math,oleersoy,None
+commons-math,britter,None
+commons-math,danielshahaf,danielsh apache org
+commons-math,brettporter,brett@apache.org
+commons-math,ebourg,ebourg@apache.org
+commons-math,wardev,None
+commons-math,mbenson,gudnabrsam@gmail.com
+commons-math,gliga,None

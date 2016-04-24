@@ -1,0 +1,16 @@
+commons-pool,markt-asf,None
+commons-pool,sebbASF,None
+commons-pool,simonetripodi,simonetripodi@apache.org
+commons-pool,itstechupnorth,None
+commons-pool,jvanzyl,jason@takari.io
+commons-pool,mdiggory,None
+commons-pool,olamy,olamy@apache.org
+commons-pool,rahu1,None
+commons-pool,jochenw,jochen.wiedmann@gmail.com
+commons-pool,ecki,bernd-2016@eckenfels.net
+commons-pool,mebigfatguy,dbrosius@mebigfatguy.com
+commons-pool,netomi,None
+commons-pool,costinm,costin@apache.org
+commons-pool,danielrall,None
+commons-pool,baahmi,None
+commons-pool,mbenson,gudnabrsam@gmail.com

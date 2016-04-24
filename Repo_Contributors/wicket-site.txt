@@ -1,0 +1,4 @@
+wicket-site,martin-g,mgrigorov at apache org
+wicket-site,klopfdreh,tsoloschenko@apache.org
+wicket-site,dashorst,dashorst@apache.org
+wicket-site,bitstorm,adelbene@apache.org

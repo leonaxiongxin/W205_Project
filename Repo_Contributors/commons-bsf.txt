@@ -1,0 +1,6 @@
+commons-bsf,sebbASF,None
+commons-bsf,hgschmie,henning@schmiedehausen.org
+commons-bsf,rahu1,None
+commons-bsf,ebourg,ebourg@apache.org
+commons-bsf,markt-asf,None
+commons-bsf,olamy,olamy@apache.org

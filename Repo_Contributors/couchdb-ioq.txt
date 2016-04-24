@@ -1,0 +1,3 @@
+couchdb-ioq,kxepal,None
+couchdb-ioq,rnewson,rnewson@apache.org
+couchdb-ioq,iilyak,None

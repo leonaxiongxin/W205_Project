@@ -1,0 +1,11 @@
+cordova-ubuntu,david-barth-canonical,None
+cordova-ubuntu,stevengill,stevengill97@gmail.com
+cordova-ubuntu,jfmoy,@moystard
+cordova-ubuntu,cmarcelk,None
+cordova-ubuntu,Zaspire,ermilov.maxim@gmail.com
+cordova-ubuntu,pbakondy,None
+cordova-ubuntu,mardy,None
+cordova-ubuntu,AlexandreAbreu,alexandre.abreu@acm.org
+cordova-ubuntu,dblotsky,dmitry.blotsky@gmail.com
+cordova-ubuntu,surajpindoria,suraj.pindoria@yahoo.com
+cordova-ubuntu,daserge,None

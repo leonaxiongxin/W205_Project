@@ -1,0 +1,11 @@
+james-project,chibenwa,btellier@linagora.com
+james-project,itstechupnorth,None
+james-project,aduprat,None
+james-project,normanmaurer,norman.maurer@googlemail.com
+james-project,mbaechler,None
+james-project,fvn-linagora,None
+james-project,rouazana,None
+james-project,killerbees,danny@apache.org
+james-project,Laura-Royet,None
+james-project,ok2c,None
+james-project,manolo,manolo@apache.org

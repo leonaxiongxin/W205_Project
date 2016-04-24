@@ -1,0 +1,12 @@
+flex-falcon,aharui,None
+flex-falcon,erikdebruin,None
+flex-falcon,joshtynjala,None
+flex-falcon,doublefx,fthomas@apache.org
+flex-falcon,adufilie,andy.dufilie@gmail.com
+flex-falcon,cyrillzadra,None
+flex-falcon,chrisdutz,christofer.dutz@codecentric.de
+flex-falcon,Harbs,None
+flex-falcon,bigosmallm,None
+flex-falcon,teotigraphix,mschmalle@teotigraphix.com
+flex-falcon,dloverin,None
+flex-falcon,danielshahaf,danielsh apache org

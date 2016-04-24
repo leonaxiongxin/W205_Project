@@ -1,0 +1,7 @@
+incubator-corinthia,peterkelly,peter@pmkelly.net
+incubator-corinthia,janiversen,jani@documentfoundation.org
+incubator-corinthia,GabrielaBarbara,gbg@apache.org
+incubator-corinthia,FranzDeCopenhague,None
+incubator-corinthia,pescetti,None
+incubator-corinthia,hammyau,None
+incubator-corinthia,rectang,None

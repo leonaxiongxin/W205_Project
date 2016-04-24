@@ -1,0 +1,7 @@
+wink,bluk,None
+wink,tarlog,None
+wink,lresende,lresende@apache.org
+wink,raymondfeng,None
+wink,danielshahaf,danielsh apache org
+wink,dims,davanum@gmail.com
+wink,gpetracek,gpetracek@apache.org

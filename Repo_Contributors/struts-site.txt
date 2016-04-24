@@ -1,0 +1,9 @@
+struts-site,lukaszlenart,lukasz.lenart@gmail.com
+struts-site,ted-husted,None
+struts-site,rgielen,None
+struts-site,grobmeier,None
+struts-site,jogep,post@jgeppert.com
+struts-site,mfncooper,None
+struts-site,schof,None
+struts-site,jeandersonbc,jeandersonbc@gmail.com
+struts-site,michaelhidalgo,michaelfallas@gmail.com

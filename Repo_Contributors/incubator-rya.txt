@@ -1,0 +1,4 @@
+incubator-rya,amihalik,mihalik@alum.mit.edu
+incubator-rya,pujav65,None
+incubator-rya,joshelser,josh.elser@gmail.com
+incubator-rya,ejwhite922,None

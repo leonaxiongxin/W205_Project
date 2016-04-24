@@ -1,0 +1,8 @@
+cxf-fediz,coheigea,None
+cxf-fediz,sberyozkin,None
+cxf-fediz,janbernhardt,None
+cxf-fediz,owulff,owulff@talend.com
+cxf-fediz,dkulp,dan@kulp.com
+cxf-fediz,cschmuelling,cschmuelling@talend.com
+cxf-fediz,avallen,andreas.vallen@gmail.com
+cxf-fediz,hzbarcea,None

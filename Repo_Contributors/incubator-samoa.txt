@@ -1,0 +1,8 @@
+incubator-samoa,gdfm,None
+incubator-samoa,edi-bice,None
+incubator-samoa,abifet,None
+incubator-samoa,matthieumorel,None
+incubator-samoa,jayadeepj,None
+incubator-samoa,senorcarbone,parisc@kth.se
+incubator-samoa,gyfora,gyfora@apache.org
+incubator-samoa,darionyaphet,darion.yaphet@gmail.com

@@ -1,0 +1,8 @@
+servicemix-utils,gertv,gert.vanthienen@gmail.com
+servicemix-utils,jbonofre,jbonofre@apache.org
+servicemix-utils,lhein,None
+servicemix-utils,gnodet,None
+servicemix-utils,iocanel,iocanel@gmail.com
+servicemix-utils,ffang,None
+servicemix-utils,ccustine,chris.custine@gmail.com
+servicemix-utils,dkulp,dan@kulp.com

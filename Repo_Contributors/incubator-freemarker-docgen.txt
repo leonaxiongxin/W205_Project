@@ -1,0 +1,2 @@
+incubator-freemarker-docgen,ddekany,ddekany@freemail.hu
+incubator-freemarker-docgen,ratherblue,None

@@ -1,0 +1,10 @@
+commons-bcel,sebbASF,None
+commons-bcel,mebigfatguy,dbrosius@mebigfatguy.com
+commons-bcel,ebourg,ebourg@apache.org
+commons-bcel,tcurdt,None
+commons-bcel,jvanzyl,jason@takari.io
+commons-bcel,markt-asf,None
+commons-bcel,britter,None
+commons-bcel,olamy,olamy@apache.org
+commons-bcel,danielrall,None
+commons-bcel,rubys,None

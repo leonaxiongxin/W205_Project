@@ -1,0 +1,14 @@
+incubator-metron,nickwallen,nick@nickallen.org
+incubator-metron,cestella,None
+incubator-metron,dlyle65535,dlyle65535@gmail.com
+incubator-metron,sirsean,sirsean@gmail.com
+incubator-metron,merrimanr,merrimanr@gmail.com
+incubator-metron,ehashman,None
+incubator-metron,omalley,omalley@apache.org
+incubator-metron,mbittmann,None
+incubator-metron,yibter,john@cephal.com
+incubator-metron,ddutta,None
+incubator-metron,lexholden,a@lexholden.com
+incubator-metron,charlesporter,None
+incubator-metron,dossett,dossett@gmail.com
+incubator-metron,vijayk,vkumar@hortonworks.com

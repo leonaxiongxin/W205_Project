@@ -1,0 +1,3 @@
+tuscany-sca-1.x,jsdelfino,jsdelfino@apache.org
+tuscany-sca-1.x,dims,davanum@gmail.com
+tuscany-sca-1.x,lresende,lresende@apache.org

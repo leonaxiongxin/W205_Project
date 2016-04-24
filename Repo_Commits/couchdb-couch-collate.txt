@@ -1,0 +1,7 @@
+couchdb-couch-collate,wohali,2014-04-19T02:31:03
+couchdb-couch-collate,benoitc,2014-02-15T22:38:29
+couchdb-couch-collate,None,0
+couchdb-couch-collate,None,0
+couchdb-couch-collate,None,0
+couchdb-couch-collate,None,0
+couchdb-couch-collate,None,0

@@ -1,0 +1,12 @@
+maven-doxia-sitetools,hboutemy,hboutemy@apache.org
+maven-doxia-sitetools,ltheussl,None
+maven-doxia-sitetools,dennisl,None
+maven-doxia-sitetools,michael-o,None
+maven-doxia-sitetools,olamy,olamy@apache.org
+maven-doxia-sitetools,rfscholte,rfscholte@apache.org
+maven-doxia-sitetools,jvanzyl,jason@takari.io
+maven-doxia-sitetools,bentmann,None
+maven-doxia-sitetools,brianf,None
+maven-doxia-sitetools,brettporter,brett@apache.org
+maven-doxia-sitetools,aheritier,aheritier@apache.org
+maven-doxia-sitetools,bimargulies,None

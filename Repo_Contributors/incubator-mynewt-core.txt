@@ -1,0 +1,8 @@
+incubator-mynewt-core,ccollins476ad,None
+incubator-mynewt-core,mkiiskila,None
+incubator-mynewt-core,wes3,None
+incubator-mynewt-core,sterlinghughes,sterling@apache.org
+incubator-mynewt-core,paulfdietrich,None
+incubator-mynewt-core,neelnatu,None
+incubator-mynewt-core,justinmclean,justin@classsoftware.com
+incubator-mynewt-core,aditihilbert,None

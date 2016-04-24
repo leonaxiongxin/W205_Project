@@ -1,0 +1,3 @@
+pdfbox-docs,msahyoun,sahyoun@fileaffairs.de
+pdfbox-docs,lehmi,andreas@lehmi.de
+pdfbox-docs,jahewson,john@jahewson.com

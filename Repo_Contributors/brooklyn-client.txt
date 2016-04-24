@@ -1,0 +1,11 @@
+brooklyn-client,geomacy,None
+brooklyn-client,lloyddave,None
+brooklyn-client,robertgmoss,robertgmoss@gmail.com
+brooklyn-client,ahgittin,alex.heneveld@cloudsoftcorp.com
+brooklyn-client,neykov,None
+brooklyn-client,johnmccabe,None
+brooklyn-client,aledsage,None
+brooklyn-client,andreaturli,None
+brooklyn-client,lyubenblagoev,None
+brooklyn-client,rdowner,richard@apache.org
+brooklyn-client,drigodwin,None

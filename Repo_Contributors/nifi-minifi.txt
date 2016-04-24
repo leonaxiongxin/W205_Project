@@ -1,0 +1,2 @@
+nifi-minifi,apiri,None
+nifi-minifi,JPercivall,joepercivall@yahoo.com

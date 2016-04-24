@@ -1,0 +1,6 @@
+cordova-plugin-legacy-whitelist,stevengill,stevengill97@gmail.com
+cordova-plugin-legacy-whitelist,dblotsky,dmitry.blotsky@gmail.com
+cordova-plugin-legacy-whitelist,agrieve,agrieve@chromium.org
+cordova-plugin-legacy-whitelist,eymorale,None
+cordova-plugin-legacy-whitelist,jpchase,None
+cordova-plugin-legacy-whitelist,cfjedimaster,None

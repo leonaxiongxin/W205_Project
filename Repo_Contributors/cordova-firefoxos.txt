@@ -1,0 +1,17 @@
+cordova-firefoxos,stevengill,stevengill97@gmail.com
+cordova-firefoxos,Steckelfisch,None
+cordova-firefoxos,marti1125,marti1125@gmail.com
+cordova-firefoxos,zalun,piotr [at] zalewa.info
+cordova-firefoxos,rodms10,None
+cordova-firefoxos,gtanner,None
+cordova-firefoxos,mwbrooks,michael@michaelbrooks.ca
+cordova-firefoxos,lmorchard,me@lmorchard.com
+cordova-firefoxos,hermwong,None
+cordova-firefoxos,cmarcelk,None
+cordova-firefoxos,brianleroux,b@brian.io
+cordova-firefoxos,dblotsky,dmitry.blotsky@gmail.com
+cordova-firefoxos,jlongster,None
+cordova-firefoxos,jbuck,jon@jbuckley.ca
+cordova-firefoxos,jsoref,None
+cordova-firefoxos,surajpindoria,suraj.pindoria@yahoo.com
+cordova-firefoxos,daserge,None

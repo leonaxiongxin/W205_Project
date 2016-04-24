@@ -1,0 +1,15 @@
+ofbiz,JacquesLeRoux,jacques.le.roux@les7arts.com
+ofbiz,jacopoc,jacopo.cappellato@gmail.com
+ofbiz,hansbak,github@hansbakker.com
+ofbiz,eigood,None
+ofbiz,adrian-crum,None
+ofbiz,jonesde,dej@dejc.com
+ofbiz,lektran,None
+ofbiz,andrewzeneski,andrew@andrewzeneski.com
+ofbiz,bibryam,bibryam@gmail.com
+ofbiz,chrisgt,None
+ofbiz,shijh,huaruhai@hotmail.com
+ofbiz,mbrohl,None
+ofbiz,ccarlow,None
+ofbiz,gilPts,None
+ofbiz,pquerna,pquerna@apache.org

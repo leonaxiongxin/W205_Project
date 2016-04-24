@@ -1,0 +1,5 @@
+activemq-activeio,chirino,hiram@hiramchirino.com
+activemq-activeio,jstrachan,james.strachan@gmail.com
+activemq-activeio,gnodet,None
+activemq-activeio,dblevins,david.blevins@gmail.com
+activemq-activeio,rajdavies,rajdavies@gmail.com

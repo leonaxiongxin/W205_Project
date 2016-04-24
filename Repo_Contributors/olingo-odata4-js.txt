@@ -1,0 +1,2 @@
+olingo-odata4-js,s-ko-mo,None
+olingo-odata4-js,eduardkoller,None

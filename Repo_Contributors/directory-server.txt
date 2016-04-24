@@ -1,0 +1,12 @@
+directory-server,akarasulu,akarasulu@apache.org
+directory-server,kayyagari,None
+directory-server,seelmann,None
+directory-server,ersiner,None
+directory-server,pamarcelot,None
+directory-server,trustin,t@motd.kr
+directory-server,ccustine,chris.custine@gmail.com
+directory-server,brettporter,brett@apache.org
+directory-server,coheigea,None
+directory-server,ggezer,None
+directory-server,jimjag,None
+directory-server,jvermillard,jvermillard@apache.org

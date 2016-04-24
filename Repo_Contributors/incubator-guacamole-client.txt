@@ -1,0 +1,16 @@
+incubator-guacamole-client,mike-jumper,mike.jumper@guac-dev.org
+incubator-guacamole-client,jmuehlner,james.muehlner@guac-dev.org
+incubator-guacamole-client,IT-Experte,None
+incubator-guacamole-client,flangelo,None
+incubator-guacamole-client,dynamiccast,None
+incubator-guacamole-client,daviddvora,daviddvora@gmail.com
+incubator-guacamole-client,FlintRiverSystems,None
+incubator-guacamole-client,lmeunier,None
+incubator-guacamole-client,kozhin,hello@profitco.ru
+incubator-guacamole-client,richarpw,None
+incubator-guacamole-client,TheAxnJaxn,None
+incubator-guacamole-client,nrbrt,None
+incubator-guacamole-client,cfroese,None
+incubator-guacamole-client,JeromeCHARLOT,None
+incubator-guacamole-client,mikofoto,miko@mikofoto.net
+incubator-guacamole-client,stephenryoungster,None

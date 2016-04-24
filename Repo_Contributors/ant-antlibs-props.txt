@@ -1,0 +1,2 @@
+ant-antlibs-props,mbenson,gudnabrsam@gmail.com
+ant-antlibs-props,bodewig,stefan.bodewig@freenet.de

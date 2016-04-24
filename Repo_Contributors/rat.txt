@@ -1,0 +1,3 @@
+rat,itstechupnorth,None
+rat,jochenw,jochen.wiedmann@gmail.com
+rat,bodewig,stefan.bodewig@freenet.de

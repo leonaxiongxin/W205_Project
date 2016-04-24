@@ -1,0 +1,11 @@
+couchdb-couch-index,davisp,paul.joseph.davis@gmail.com
+couchdb-couch-index,iilyak,None
+couchdb-couch-index,rnewson,rnewson@apache.org
+couchdb-couch-index,kxepal,None
+couchdb-couch-index,eiri,eiri@eiri.ca
+couchdb-couch-index,kocolosk,adam@kocolosk.net
+couchdb-couch-index,fdmanana,fdmanana@kernel.org
+couchdb-couch-index,janl,jan@apache.org
+couchdb-couch-index,jhs,jason.h.smith@gmail.com
+couchdb-couch-index,mikewallace1979,mikewallace@apache.org
+couchdb-couch-index,nslater,nslater@apache.org

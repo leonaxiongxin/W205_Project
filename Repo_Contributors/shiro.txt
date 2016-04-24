@@ -1,0 +1,5 @@
+shiro,kaosko,None
+shiro,bdemers,bdemers@apache.org
+shiro,ankon,None
+shiro,gmcdonald,None
+shiro,cstamas,tamas@cservenak.net

@@ -1,0 +1,16 @@
+maven-plugin-tools,hboutemy,hboutemy@apache.org
+maven-plugin-tools,olamy,olamy@apache.org
+maven-plugin-tools,bentmann,None
+maven-plugin-tools,dennisl,None
+maven-plugin-tools,rfscholte,rfscholte@apache.org
+maven-plugin-tools,krosenvold,kristian.rosenvold@gmail.com
+maven-plugin-tools,brianf,None
+maven-plugin-tools,bimargulies,None
+maven-plugin-tools,stephenc,None
+maven-plugin-tools,brettporter,brett@apache.org
+maven-plugin-tools,andham,anders@hammar.net
+maven-plugin-tools,carlossg,carlos@apache.org
+maven-plugin-tools,ltheussl,None
+maven-plugin-tools,khmarbaise,github@soebes.com
+maven-plugin-tools,aheritier,aheritier@apache.org
+maven-plugin-tools,ifedorenko,None

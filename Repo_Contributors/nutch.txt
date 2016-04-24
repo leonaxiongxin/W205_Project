@@ -1,0 +1,12 @@
+nutch,siren,siren@foofactory.fi
+nutch,jnioche,julien@digitalpebble.com
+nutch,chrismattmann,chris.mattmann@gmail.com
+nutch,cutting,cutting@apache.org
+nutch,sebastian-nagel,None
+nutch,tejasapatil,tejasp@apache.org
+nutch,erikhatcher,None
+nutch,MJJoyce,None
+nutch,sujen1412,None
+nutch,karanjeets,connect.karanjeet@gmail.com
+nutch,thammegowda,tgowdan@gmail.com
+nutch,gmcdonald,None

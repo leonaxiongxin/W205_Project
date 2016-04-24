@@ -1,0 +1,4 @@
+cxf-dosgi,cschneider,None
+cxf-dosgi,bosschaert,None
+cxf-dosgi,dkulp,dan@kulp.com
+cxf-dosgi,coheigea,None

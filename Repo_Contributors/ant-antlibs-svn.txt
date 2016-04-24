@@ -1,0 +1,2 @@
+ant-antlibs-svn,bodewig,stefan.bodewig@freenet.de
+ant-antlibs-svn,steveloughran,None

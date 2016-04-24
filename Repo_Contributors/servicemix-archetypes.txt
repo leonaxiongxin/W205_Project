@@ -1,0 +1,10 @@
+servicemix-archetypes,jbonofre,jbonofre@apache.org
+servicemix-archetypes,gnodet,None
+servicemix-archetypes,lhein,None
+servicemix-archetypes,gertv,gert.vanthienen@gmail.com
+servicemix-archetypes,ffang,None
+servicemix-archetypes,chirino,hiram@hiramchirino.com
+servicemix-archetypes,jstrachan,james.strachan@gmail.com
+servicemix-archetypes,ccustine,chris.custine@gmail.com
+servicemix-archetypes,brettporter,brett@apache.org
+servicemix-archetypes,janstey,None

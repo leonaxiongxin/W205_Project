@@ -1,0 +1,5 @@
+incubator-taverna-maven-parent,stain,stian@soiland-reyes.com
+incubator-taverna-maven-parent,ianwdunlop,None
+incubator-taverna-maven-parent,Christian-B,None
+incubator-taverna-maven-parent,alaninmcr,alan.r.williams@manchester.ac.uk
+incubator-taverna-maven-parent,smarru,smarru@apache.org

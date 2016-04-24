@@ -1,0 +1,4 @@
+couchdb-peruser,KlausTrainer,klaus_trainer@apache.org
+couchdb-peruser,etrepum,bob@redivi.com
+couchdb-peruser,redgeoff,None
+couchdb-peruser,janl,jan@apache.org

@@ -1,0 +1,1 @@
+myfaces-portlet-bridge,matzew,matzew@apache.org

@@ -1,0 +1,1 @@
+ant-easyant-plugins,jeanlouisboudart,jeanlouis.boudart@gmail.com

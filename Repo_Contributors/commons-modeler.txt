@@ -1,0 +1,14 @@
+commons-modeler,costinm,costin@apache.org
+commons-modeler,dims,davanum@gmail.com
+commons-modeler,dennisl,None
+commons-modeler,YoavShapira,None
+commons-modeler,mdiggory,None
+commons-modeler,sebbASF,None
+commons-modeler,rahu1,None
+commons-modeler,itstechupnorth,None
+commons-modeler,jvanzyl,jason@takari.io
+commons-modeler,olamy,olamy@apache.org
+commons-modeler,rmaucher,None
+commons-modeler,brettporter,brett@apache.org
+commons-modeler,jstrachan,james.strachan@gmail.com
+commons-modeler,mbenson,gudnabrsam@gmail.com

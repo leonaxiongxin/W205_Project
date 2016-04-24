@@ -1,0 +1,11 @@
+maven-skins,simonetripodi,simonetripodi@apache.org
+maven-skins,olamy,olamy@apache.org
+maven-skins,michael-o,None
+maven-skins,hboutemy,hboutemy@apache.org
+maven-skins,dennisl,None
+maven-skins,rfscholte,rfscholte@apache.org
+maven-skins,brettporter,brett@apache.org
+maven-skins,khmarbaise,github@soebes.com
+maven-skins,ltheussl,None
+maven-skins,bentmann,None
+maven-skins,brianf,None

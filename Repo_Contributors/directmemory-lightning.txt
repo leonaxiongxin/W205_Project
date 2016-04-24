@@ -1,0 +1,2 @@
+directmemory-lightning,noctarius,me@noctarius.com
+directmemory-lightning,olamy,olamy@apache.org

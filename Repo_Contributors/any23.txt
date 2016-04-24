@@ -1,0 +1,10 @@
+any23,simonetripodi,simonetripodi@apache.org
+any23,michelemostarda,michele.mostarda@gmail.com
+any23,ansell,None
+any23,lewismc,lewis.mcgibbney@gmail.com
+any23,nisalanirmana,nisala12@gmail.com
+any23,levkhomich,None
+any23,jdevelop,None
+any23,olamy,olamy@apache.org
+any23,scor,scorlosquet@gmail.com
+any23,Timpy,None

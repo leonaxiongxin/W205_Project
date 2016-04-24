@@ -1,0 +1,13 @@
+zest-java,niclash,niclas@hedhman.org
+zest-java,eskatos,None
+zest-java,rickardoberg,None
+zest-java,soelvsten,kent.soelvsten@gmail.com
+zest-java,tbml,None
+zest-java,cdchapman,None
+zest-java,ramtej,None
+zest-java,arvidhuss,None
+zest-java,adreghiciu,adreghiciu@gmail.com
+zest-java,ashneyderman,a.shneyderman@gmail.com
+zest-java,kbialek,None
+zest-java,sbkhuis,stijnbeekhuis@planework.com
+zest-java,pvdyck,None

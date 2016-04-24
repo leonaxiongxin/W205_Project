@@ -1,0 +1,6 @@
+incubator-mynewt-newt,ccollins476ad,None
+incubator-mynewt-newt,sterlinghughes,sterling@apache.org
+incubator-mynewt-newt,mkiiskila,None
+incubator-mynewt-newt,aditihilbert,None
+incubator-mynewt-newt,justinmclean,justin@classsoftware.com
+incubator-mynewt-newt,wes3,None

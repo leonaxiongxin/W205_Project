@@ -1,0 +1,6 @@
+commons-ognl,simonetripodi,simonetripodi@apache.org
+commons-ognl,mcucchiara,mcucchiara@apache.org
+commons-ognl,grobmeier,None
+commons-ognl,olamy,olamy@apache.org
+commons-ognl,lukaszlenart,lukasz.lenart@gmail.com
+commons-ognl,sebbASF,None

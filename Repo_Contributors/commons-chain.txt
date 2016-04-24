@@ -1,0 +1,12 @@
+commons-chain,simonetripodi,simonetripodi@apache.org
+commons-chain,britter,None
+commons-chain,ted-husted,None
+commons-chain,sebbASF,None
+commons-chain,mfncooper,None
+commons-chain,dennisl,None
+commons-chain,rahu1,None
+commons-chain,itstechupnorth,None
+commons-chain,mbenson,gudnabrsam@gmail.com
+commons-chain,olamy,olamy@apache.org
+commons-chain,brettporter,brett@apache.org
+commons-chain,mdiggory,None

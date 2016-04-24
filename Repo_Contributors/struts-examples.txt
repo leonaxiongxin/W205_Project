@@ -1,0 +1,6 @@
+struts-examples,lukaszlenart,lukasz.lenart@gmail.com
+struts-examples,ted-husted,None
+struts-examples,jogep,post@jgeppert.com
+struts-examples,phillips1021,phillips1021@hotmail.com
+struts-examples,mcucchiara,mcucchiara@apache.org
+struts-examples,grobmeier,None

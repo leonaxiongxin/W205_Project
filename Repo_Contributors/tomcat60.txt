@@ -1,0 +1,8 @@
+tomcat60,markt-asf,None
+tomcat60,rmaucher,None
+tomcat60,mturk,mturk@jboss.org
+tomcat60,jimjag,None
+tomcat60,violetagg,None
+tomcat60,costinm,costin@apache.org
+tomcat60,YoavShapira,None
+tomcat60,sylvainlaurent,None

@@ -1,0 +1,7 @@
+bookkeeper,ivankelly,ivan@ivankelly.net
+bookkeeper,sijie, sijie@apache.org 
+bookkeeper,fpj,fpj@apache.org
+bookkeeper,breed,None
+bookkeeper,merlimat,mmerli@apache.org
+bookkeeper,eolivelli,eolivelli@gmail.com
+bookkeeper,umamaheswararao,uma.gangumalla@intel.com

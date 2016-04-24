@@ -1,0 +1,14 @@
+nifi-minifi,apiri,2016-04-20T21:13:35
+nifi-minifi,JPercivall,2016-04-14T23:01:54
+nifi-minifi,apiri,2016-04-19T17:22:52
+nifi-minifi,apiri,2016-04-18T20:57:37
+nifi-minifi,apiri,2016-04-13T20:43:31
+nifi-minifi,JPercivall,2016-03-30T18:14:15
+nifi-minifi,JPercivall,2016-04-08T17:17:33
+nifi-minifi,apiri,2016-04-08T18:59:58
+nifi-minifi,apiri,2016-04-06T01:19:57
+nifi-minifi,JPercivall,2016-03-31T21:31:12
+nifi-minifi,JPercivall,2016-03-30T21:17:03
+nifi-minifi,apiri,2016-03-30T19:01:38
+nifi-minifi,apiri,2016-03-28T16:21:43
+nifi-minifi,apiri,2016-03-14T20:53:17

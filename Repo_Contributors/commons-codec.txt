@@ -1,0 +1,12 @@
+commons-codec,sebbASF,None
+commons-codec,netomi,None
+commons-codec,mdiggory,None
+commons-codec,rahu1,None
+commons-codec,olamy,olamy@apache.org
+commons-codec,dennisl,None
+commons-codec,mbenson,gudnabrsam@gmail.com
+commons-codec,brettporter,brett@apache.org
+commons-codec,jochenw,jochen.wiedmann@gmail.com
+commons-codec,joehni,joerg.schaible@gmx.de
+commons-codec,ok2c,None
+commons-codec,YoavShapira,None

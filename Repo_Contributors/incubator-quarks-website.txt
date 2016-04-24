@@ -1,0 +1,9 @@
+incubator-quarks-website,lresende,lresende@apache.org
+incubator-quarks-website,queeniema,queeniema@ucla.edu
+incubator-quarks-website,dlaboss,None
+incubator-quarks-website,Alex-Cook4,None
+incubator-quarks-website,kmarsden,None
+incubator-quarks-website,Cazen,cazen.lee@gmail.com
+incubator-quarks-website,ddebrunner,None
+incubator-quarks-website,julianhyde,None
+incubator-quarks-website,kathyssaunders,None

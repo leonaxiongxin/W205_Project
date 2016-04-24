@@ -1,0 +1,3 @@
+activemq-stomp,dejanb,None
+activemq-stomp,chirino,hiram@hiramchirino.com
+activemq-stomp,jstrachan,james.strachan@gmail.com

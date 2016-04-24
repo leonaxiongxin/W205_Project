@@ -1,0 +1,17 @@
+whimsy,rubys,None
+whimsy,sebbASF,None
+whimsy,danielshahaf,danielsh apache org
+whimsy,papajdo,None
+whimsy,chrismattmann,chris.mattmann@gmail.com
+whimsy,brettporter,brett@apache.org
+whimsy,protochron,None
+whimsy,CraigLRussell,None
+whimsy,rgardler,ross.gardler@microsoft.com
+whimsy,Humbedooh,None
+whimsy,janiversen,jani@documentfoundation.org
+whimsy,jimjag,None
+whimsy,Gagravarr,None
+whimsy,gmcdonald,None
+whimsy,jukka,jukka@zitting.name
+whimsy,clambertus,None
+whimsy,stumped2,geoffcorey7@gmail.com

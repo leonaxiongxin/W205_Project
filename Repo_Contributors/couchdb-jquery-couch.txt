@@ -1,0 +1,17 @@
+couchdb-jquery-couch,jchris,jchris@gmail.com
+couchdb-jquery-couch,janl,jan@apache.org
+couchdb-jquery-couch,cmlenz,cmlenz@gmail.com
+couchdb-jquery-couch,robertkowalski,rok@kowalski.gd
+couchdb-jquery-couch,jasondavies,None
+couchdb-jquery-couch,kxepal,None
+couchdb-jquery-couch,fdmanana,fdmanana@kernel.org
+couchdb-jquery-couch,nslater,nslater@apache.org
+couchdb-jquery-couch,mikeymckay,mike@vdomck.org
+couchdb-jquery-couch,rnewson,rnewson@apache.org
+couchdb-jquery-couch,davisp,paul.joseph.davis@gmail.com
+couchdb-jquery-couch,mrloop,info@mrloop.com
+couchdb-jquery-couch,indutny,fedor@indutny.com
+couchdb-jquery-couch,daleharvey,dale@arandomurl.com
+couchdb-jquery-couch,sbisbee,sam@sbisbee.com
+couchdb-jquery-couch,benoitc,bchesneau@gmail.com
+couchdb-jquery-couch,telis93,teldosas@gmail.com

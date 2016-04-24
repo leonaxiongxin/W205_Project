@@ -1,0 +1,10 @@
+maven-doxia-tools,hboutemy,hboutemy@apache.org
+maven-doxia-tools,dennisl,None
+maven-doxia-tools,ltheussl,None
+maven-doxia-tools,olamy,olamy@apache.org
+maven-doxia-tools,bentmann,None
+maven-doxia-tools,brianf,None
+maven-doxia-tools,krosenvold,kristian.rosenvold@gmail.com
+maven-doxia-tools,brettporter,brett@apache.org
+maven-doxia-tools,aheritier,aheritier@apache.org
+maven-doxia-tools,michael-o,None

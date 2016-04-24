@@ -1,0 +1,9 @@
+karaf-site,jbonofre,jbonofre@apache.org
+karaf-site,jgoodyear,None
+karaf-site,gnodet,None
+karaf-site,cschneider,None
+karaf-site,splatch,None
+karaf-site,ffang,None
+karaf-site,chirino,hiram@hiramchirino.com
+karaf-site,anpieber,anpieber@gmail.com
+karaf-site,iocanel,iocanel@gmail.com

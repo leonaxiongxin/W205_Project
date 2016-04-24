@@ -1,0 +1,8 @@
+cordova-webos,hermwong,None
+cordova-webos,stevengill,stevengill97@gmail.com
+cordova-webos,ghtomcat,None
+cordova-webos,surajpindoria,suraj.pindoria@yahoo.com
+cordova-webos,davebalmer,None
+cordova-webos,cmarcelk,None
+cordova-webos,alunny,alunny@gmail.com
+cordova-webos,daserge,None

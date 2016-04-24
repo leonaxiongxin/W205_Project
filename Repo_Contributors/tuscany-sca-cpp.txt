@@ -1,0 +1,2 @@
+tuscany-sca-cpp,jsdelfino,jsdelfino@apache.org
+tuscany-sca-cpp,dims,davanum@gmail.com

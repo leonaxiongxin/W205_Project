@@ -1,0 +1,17 @@
+commons-validator,sebbASF,None
+commons-validator,britter,None
+commons-validator,simonetripodi,simonetripodi@apache.org
+commons-validator,mfncooper,None
+commons-validator,Gagravarr,None
+commons-validator,ted-husted,None
+commons-validator,olamy,olamy@apache.org
+commons-validator,adrian-crum,None
+commons-validator,mdiggory,None
+commons-validator,mebigfatguy,dbrosius@mebigfatguy.com
+commons-validator,rahu1,None
+commons-validator,dennisl,None
+commons-validator,jvanzyl,jason@takari.io
+commons-validator,itstechupnorth,None
+commons-validator,ebourg,ebourg@apache.org
+commons-validator,mbenson,gudnabrsam@gmail.com
+commons-validator,rgoers,rgoers@apache.org

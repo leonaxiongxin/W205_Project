@@ -1,0 +1,15 @@
+incubator-sentry,pmujumdar,prasadm@apache.org
+incubator-sentry,lskuff,lskuff@cloudera.com
+incubator-sentry,brockn,brockn@gmail.com
+incubator-sentry,sundapeng,sdp@apache.org
+incubator-sentry,jarcec,jarcec@apache.org
+incubator-sentry,colinmjj,None
+incubator-sentry,grchanan,None
+incubator-sentry,shreepadma,shreepadma.venugopalan@gmail.com
+incubator-sentry,shenguoquan,gqshen@apache.org
+incubator-sentry,anneyu,anneyu@apache.org
+incubator-sentry,HuangXiaomeng,xiaom@apache.org
+incubator-sentry,gchanan,None
+incubator-sentry,annesjyu,None
+incubator-sentry,olamy,olamy@apache.org
+incubator-sentry,mohitsabharwal,None

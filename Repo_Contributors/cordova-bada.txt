@@ -1,0 +1,5 @@
+cordova-bada,imhotep,anis.kadri@gmail.com
+cordova-bada,jsoref,None
+cordova-bada,cmarcelk,None
+cordova-bada,stevengill,stevengill97@gmail.com
+cordova-bada,mwbrooks,michael@michaelbrooks.ca

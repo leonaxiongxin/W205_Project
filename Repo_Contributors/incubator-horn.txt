@@ -1,0 +1,4 @@
+incubator-horn,edwardyoon,edwardyoon@apache.org
+incubator-horn,dongjinleekr,dongjin@apache.org
+incubator-horn,eoriented,minwise.kim@samung.com
+incubator-horn,ZJaffee,zjaffee@apache.org

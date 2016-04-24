@@ -1,0 +1,8 @@
+tomcat-connectors,costinm,costin@apache.org
+tomcat-connectors,pfumagalli,pier@usrz.com
+tomcat-connectors,hgomez,henri.gomez@gmail.com
+tomcat-connectors,rmaucher,None
+tomcat-connectors,mturk,mturk@jboss.org
+tomcat-connectors,IJOL,None
+tomcat-connectors,jfarcand,jfarcand.oss@gmail.com
+tomcat-connectors,markt-asf,None

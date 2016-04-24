@@ -1,0 +1,2 @@
+juddi-scout,dims,davanum@gmail.com
+juddi-scout,gmcdonald,None

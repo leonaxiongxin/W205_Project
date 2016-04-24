@@ -1,0 +1,6 @@
+couchdb-rexi,kocolosk,adam@kocolosk.net
+couchdb-rexi,davisp,paul.joseph.davis@gmail.com
+couchdb-rexi,rnewson,rnewson@apache.org
+couchdb-rexi,bradnoble,None
+couchdb-rexi,kxepal,None
+couchdb-rexi,boorad,brad@sankatygroup.com

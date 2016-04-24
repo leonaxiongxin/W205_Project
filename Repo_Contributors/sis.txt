@@ -1,0 +1,4 @@
+sis,desruisseaux,None
+sis,chrismattmann,chris.mattmann@gmail.com
+sis,rlaidlaw,None
+sis,charithccmc,charithcc@apache.org

@@ -1,0 +1,5 @@
+cordova-bada-wac,imhotep,anis.kadri@gmail.com
+cordova-bada-wac,cmarcelk,None
+cordova-bada-wac,jsoref,None
+cordova-bada-wac,filmaj,fil@saucelabs.com
+cordova-bada-wac,stevengill,stevengill97@gmail.com

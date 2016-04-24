@@ -1,0 +1,7 @@
+maven-archetype,brettporter,brett@apache.org
+maven-archetype,hboutemy,hboutemy@apache.org
+maven-archetype,jvanzyl,jason@takari.io
+maven-archetype,carlossg,carlos@apache.org
+maven-archetype,neonics,None
+maven-archetype,dennisl,None
+maven-archetype,oching,None

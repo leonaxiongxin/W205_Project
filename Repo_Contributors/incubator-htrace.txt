@@ -1,0 +1,10 @@
+incubator-htrace,saintstack,None
+incubator-htrace,iwasakims,iwasakims@apache.org
+incubator-htrace,elliottneilclark,None
+incubator-htrace,abec,None
+incubator-htrace,toddlipcon,todd@lipcon.org
+incubator-htrace,jonleavitt,None
+incubator-htrace,ndimiduk,ndimiduk@gmail.com
+incubator-htrace,stepinto,stepinto@live.com
+incubator-htrace,waywardmonkeys,None
+incubator-htrace,nkeywal,nkeywal@apache.org

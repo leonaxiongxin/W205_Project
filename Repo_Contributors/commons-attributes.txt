@@ -1,0 +1,7 @@
+commons-attributes,dennisl,None
+commons-attributes,rahu1,None
+commons-attributes,sebbASF,None
+commons-attributes,dims,davanum@gmail.com
+commons-attributes,mdiggory,None
+commons-attributes,mbenson,gudnabrsam@gmail.com
+commons-attributes,itstechupnorth,None

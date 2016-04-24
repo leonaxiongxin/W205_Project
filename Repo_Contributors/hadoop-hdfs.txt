@@ -1,0 +1,5 @@
+hadoop-hdfs,shvachko,None
+hadoop-hdfs,omalley,omalley@apache.org
+hadoop-hdfs,gkesavan,gkesavan@apache.org
+hadoop-hdfs,rangadi,None
+hadoop-hdfs,cdouglas,cdouglas@apache.org

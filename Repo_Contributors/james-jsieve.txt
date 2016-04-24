@@ -1,0 +1,3 @@
+james-jsieve,itstechupnorth,None
+james-jsieve,chibenwa,btellier@linagora.com
+james-jsieve,normanmaurer,norman.maurer@googlemail.com

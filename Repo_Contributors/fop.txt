@@ -1,0 +1,6 @@
+fop,jmaerki,dev@jeremias-maerki.ch
+fop,vhennebert,None
+fop,spepping,sampepping@gmail.com
+fop,chrisgt,None
+fop,bdelacretaz,bdelacretaz@apache.org
+fop,dirkx,dirkx(at)webweaving(punto)org

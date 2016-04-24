@@ -1,0 +1,11 @@
+commons-crypto,winningsix,cheng.a.xu@intel.com
+commons-crypto,sundapeng,sdp@apache.org
+commons-crypto,dianfu,None
+commons-crypto,jerrychenhf,None
+commons-crypto,colinmjj,None
+commons-crypto,JkSelf,None
+commons-crypto,dongche,None
+commons-crypto,ccobb6,Cynthia.l.cobb@intel.com
+commons-crypto,umamaheswararao,uma.gangumalla@intel.com
+commons-crypto,vanzin,None
+commons-crypto,kexianda,None

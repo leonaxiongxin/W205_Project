@@ -1,0 +1,13 @@
+couchdb-mem3,kocolosk,adam@kocolosk.net
+couchdb-mem3,bradnoble,None
+couchdb-mem3,davisp,paul.joseph.davis@gmail.com
+couchdb-mem3,rnewson,rnewson@apache.org
+couchdb-mem3,kxepal,None
+couchdb-mem3,iilyak,None
+couchdb-mem3,chewbranca,None
+couchdb-mem3,robertkowalski,rok@kowalski.gd
+couchdb-mem3,boorad,brad@sankatygroup.com
+couchdb-mem3,tonysun83,tony.sun@cloudant.com
+couchdb-mem3,sagelywizard,benjamin.bastian@gmail.com
+couchdb-mem3,mikewallace1979,mikewallace@apache.org
+couchdb-mem3,nickva,None

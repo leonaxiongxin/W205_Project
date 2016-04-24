@@ -1,0 +1,2 @@
+incubator-freemarker-site,ddekany,ddekany@freemail.hu
+incubator-freemarker-site,wikier,sergio@wikier.org

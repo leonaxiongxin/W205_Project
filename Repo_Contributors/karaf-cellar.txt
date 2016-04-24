@@ -1,0 +1,11 @@
+karaf-cellar,jbonofre,jbonofre@apache.org
+karaf-cellar,iocanel,iocanel@gmail.com
+karaf-cellar,oscerd,ancosen dot gmail dot com
+karaf-cellar,3cky,victor@antonovich.me
+karaf-cellar,albertocsm,alberto.csm@gmail.com
+karaf-cellar,Isszul,None
+karaf-cellar,FlavioF,flaviommferreira@gmail.com
+karaf-cellar,anpieber,anpieber@gmail.com
+karaf-cellar,cschneider,None
+karaf-cellar,mcculls,None
+karaf-cellar,ANierbeck,None

@@ -1,0 +1,7 @@
+flex-whiteboard,doublefx,fthomas@apache.org
+flex-whiteboard,justinmclean,justin@classsoftware.com
+flex-whiteboard,bigosmallm,None
+flex-whiteboard,s9tpepper,s9tpepper@apache.org
+flex-whiteboard,aharui,None
+flex-whiteboard,bdelacretaz,bdelacretaz@apache.org
+flex-whiteboard,danielshahaf,danielsh apache org

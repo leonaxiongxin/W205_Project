@@ -1,0 +1,10 @@
+parquet-cpp,nongli,nongli@gmail.com
+parquet-cpp,wesm,None
+parquet-cpp,majetideepak,None
+parquet-cpp,xhochy,uwelk@xhochy.com
+parquet-cpp,asandryh,None
+parquet-cpp,kalaxy,None
+parquet-cpp,4e6,bushevdv@gmail.com
+parquet-cpp,ffabbri4,None
+parquet-cpp,jaguarx,None
+parquet-cpp,kashif,kashif.rasul@gmail.com

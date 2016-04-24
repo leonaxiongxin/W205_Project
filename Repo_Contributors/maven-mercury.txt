@@ -1,0 +1,7 @@
+maven-mercury,hboutemy,hboutemy@apache.org
+maven-mercury,jvanzyl,jason@takari.io
+maven-mercury,bentmann,None
+maven-mercury,olamy,olamy@apache.org
+maven-mercury,brettporter,brett@apache.org
+maven-mercury,brianf,None
+maven-mercury,dennisl,None

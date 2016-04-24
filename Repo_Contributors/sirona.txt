@@ -1,0 +1,6 @@
+sirona,olamy,olamy@apache.org
+sirona,rmannibucau,None
+sirona,ndeloof,nicolas.deloof@gmail.com
+sirona,vanto,None
+sirona,sebbASF,None
+sirona,mbenson,gudnabrsam@gmail.com

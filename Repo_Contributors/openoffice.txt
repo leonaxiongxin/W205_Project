@@ -1,0 +1,5 @@
+openoffice,pgiffuni,None
+openoffice,arielch,None
+openoffice,pescetti,None
+openoffice,janiversen,jani@documentfoundation.org
+openoffice,Jzarecta,jza@gultab.org

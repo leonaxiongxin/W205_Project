@@ -1,0 +1,6 @@
+tuscany-sca-2.x,raymondfeng,None
+tuscany-sca-2.x,jsdelfino,jsdelfino@apache.org
+tuscany-sca-2.x,lresende,lresende@apache.org
+tuscany-sca-2.x,dkulp,dan@kulp.com
+tuscany-sca-2.x,matthieu,matthieu@offthelip.org
+tuscany-sca-2.x,dims,davanum@gmail.com

@@ -1,0 +1,10 @@
+couchdb-docker,klaemo,None
+couchdb-docker,criloz,None
+couchdb-docker,joeybaker,joey@byjoeybaker.com
+couchdb-docker,vrince,None
+couchdb-docker,janl,jan@apache.org
+couchdb-docker,chris-kobrzak,None
+couchdb-docker,jasisk,jeancharles@paypal.com
+couchdb-docker,yosifkit,None
+couchdb-docker,almereyda,jon@allmende.io
+couchdb-docker,SolidNerd,github@mietz.io

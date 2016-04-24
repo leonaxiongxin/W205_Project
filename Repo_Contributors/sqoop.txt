@@ -1,0 +1,13 @@
+sqoop,jarcec,jarcec@apache.org
+sqoop,vrangan,None
+sqoop,abec,None
+sqoop,olamy,olamy@apache.org
+sqoop,gwenshap,cshapi@gmail.com
+sqoop,harishreedharan,None
+sqoop,abhijeetvg,abygaikwad17@gmail.com
+sqoop,stanleyxu2005,None
+sqoop,chiwanpark,chiwanpark@icloud.com
+sqoop,posix4e,posix4e@gmail.com
+sqoop,danielshahaf,danielsh apache org
+sqoop,jmhsieh,jon@cloudera.com
+sqoop,keeganwitt,None

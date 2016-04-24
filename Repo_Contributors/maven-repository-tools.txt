@@ -1,0 +1,8 @@
+maven-repository-tools,carlossg,carlos@apache.org
+maven-repository-tools,jvanzyl,jason@takari.io
+maven-repository-tools,brettporter,brett@apache.org
+maven-repository-tools,brianf,None
+maven-repository-tools,ndeloof,nicolas.deloof@gmail.com
+maven-repository-tools,hboutemy,hboutemy@apache.org
+maven-repository-tools,aheritier,aheritier@apache.org
+maven-repository-tools,olamy,olamy@apache.org

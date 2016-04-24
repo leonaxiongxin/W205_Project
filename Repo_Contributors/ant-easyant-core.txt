@@ -1,0 +1,2 @@
+ant-easyant-core,jeanlouisboudart,jeanlouis.boudart@gmail.com
+ant-easyant-core,AQuillet,None

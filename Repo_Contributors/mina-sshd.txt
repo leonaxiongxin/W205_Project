@@ -1,0 +1,10 @@
+mina-sshd,gnodet,None
+mina-sshd,alonbl,alon.barlev@gmail.com
+mina-sshd,jonnyzzz,eugene.petrenko@gmail.com
+mina-sshd,janstey,None
+mina-sshd,mheemskerk,None
+mina-sshd,stephenc,None
+mina-sshd,fschopp,github@florian-schoppmann.net
+mina-sshd,jhudsoncedaron,None
+mina-sshd,osi,peter.royal@pobox.com
+mina-sshd,pepoirot,None

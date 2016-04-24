@@ -1,0 +1,11 @@
+lucy,rectang,None
+lucy,nwellnhof,wellnhofer@aevum.de
+lucy,logie17,logie@apache.org
+lucy,theory,None
+lucy,chrismattmann,chris.mattmann@gmail.com
+lucy,timwilkens,None
+lucy,cutting,cutting@apache.org
+lucy,kstarsinic,None
+lucy,mikemccand,mail@mikemccandless.com
+lucy,PeterDaveHello,None
+lucy,karpet,karpet@peknet.com

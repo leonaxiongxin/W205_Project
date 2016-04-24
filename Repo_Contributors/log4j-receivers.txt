@@ -1,0 +1,3 @@
+log4j-receivers,scottdeboy,None
+log4j-receivers,tallpsmith,None
+log4j-receivers,grobmeier,None

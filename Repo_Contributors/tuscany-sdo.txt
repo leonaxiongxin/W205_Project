@@ -1,0 +1,5 @@
+tuscany-sdo,raymondfeng,None
+tuscany-sdo,lresende,lresende@apache.org
+tuscany-sdo,jsdelfino,jsdelfino@apache.org
+tuscany-sdo,dims,davanum@gmail.com
+tuscany-sdo,dkulp,dan@kulp.com

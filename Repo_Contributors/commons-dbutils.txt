@@ -1,0 +1,12 @@
+commons-dbutils,simonetripodi,simonetripodi@apache.org
+commons-dbutils,sebbASF,None
+commons-dbutils,britter,None
+commons-dbutils,thecarlhall,carl.hall@gmail.com
+commons-dbutils,rahu1,None
+commons-dbutils,YoavShapira,None
+commons-dbutils,mdiggory,None
+commons-dbutils,dennisl,None
+commons-dbutils,ebourg,ebourg@apache.org
+commons-dbutils,baahmi,None
+commons-dbutils,mbenson,gudnabrsam@gmail.com
+commons-dbutils,olamy,olamy@apache.org

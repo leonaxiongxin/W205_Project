@@ -1,0 +1,8 @@
+clerezza,retog,reto@apache.org
+clerezza,tteofili,None
+clerezza,enridaga,enricodaga@gmail.com
+clerezza,misl,None
+clerezza,florent-andre,None
+clerezza,westei,rupert.westenthaler@gmail.com
+clerezza,bdelacretaz,bdelacretaz@apache.org
+clerezza,danielshahaf,danielsh apache org

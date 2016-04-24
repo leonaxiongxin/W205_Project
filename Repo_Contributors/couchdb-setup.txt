@@ -1,0 +1,5 @@
+couchdb-setup,janl,jan@apache.org
+couchdb-setup,kxepal,None
+couchdb-setup,robertkowalski,rok@kowalski.gd
+couchdb-setup,rnewson,rnewson@apache.org
+couchdb-setup,iilyak,None

@@ -1,0 +1,6 @@
+oltu,simonetripodi,simonetripodi@apache.org
+oltu,tteofili,None
+oltu,pidster,None
+oltu,jashaj,None
+oltu,raymondfeng,None
+oltu,danielshahaf,danielsh apache org

@@ -1,0 +1,7 @@
+portals-pluto,cziegeler,None
+portals-pluto,paulsp,None
+portals-pluto,woonsan,None
+portals-pluto,sgala,sgala@apache.org
+portals-pluto,rubys,None
+portals-pluto,msnicklous,Scott.Nicklous@de.ibm.com
+portals-pluto,bluesunrise,None

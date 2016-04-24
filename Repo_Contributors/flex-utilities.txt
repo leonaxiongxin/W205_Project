@@ -1,0 +1,20 @@
+flex-utilities,justinmclean,justin@classsoftware.com
+flex-utilities,aharui,None
+flex-utilities,bigosmallm,None
+flex-utilities,chrisdutz,christofer.dutz@codecentric.de
+flex-utilities,doublefx,fthomas@apache.org
+flex-utilities,evolverine,None
+flex-utilities,josebarragan,None
+flex-utilities,quetwo,None
+flex-utilities,KesslerConsulting,None
+flex-utilities,solomax,None
+flex-utilities,joshtynjala,None
+flex-utilities,mauriceamsellem,None
+flex-utilities,dloverin,None
+flex-utilities,joaofernandes,None
+flex-utilities,erikdebruin,None
+flex-utilities,Harbs,None
+flex-utilities,cyrillzadra,None
+flex-utilities,ds8,None
+flex-utilities,danielshahaf,danielsh apache org
+flex-utilities,trimedia,None

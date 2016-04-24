@@ -1,0 +1,2 @@
+james-imap,normanmaurer,norman.maurer@googlemail.com
+james-imap,itstechupnorth,None

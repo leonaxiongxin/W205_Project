@@ -1,0 +1,4 @@
+opennlp,ragerri,ragerri@apache.org
+opennlp,tteofili,None
+opennlp,gsingers,None
+opennlp,gmcdonald,None

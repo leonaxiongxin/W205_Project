@@ -1,0 +1,2 @@
+uima-addons,tteofili,None
+uima-addons,reckart,None

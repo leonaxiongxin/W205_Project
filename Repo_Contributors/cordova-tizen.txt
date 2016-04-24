@@ -1,0 +1,6 @@
+cordova-tizen,pplaquette,paul.plaquette@gmail.com
+cordova-tizen,imhotep,anis.kadri@gmail.com
+cordova-tizen,cmarcelk,None
+cordova-tizen,mwbrooks,michael@michaelbrooks.ca
+cordova-tizen,stevengill,stevengill97@gmail.com
+cordova-tizen,cguiraud,None

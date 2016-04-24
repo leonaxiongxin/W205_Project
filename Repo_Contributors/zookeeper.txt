@@ -1,0 +1,9 @@
+zookeeper,phunt,phunt1@gmail.com
+zookeeper,breed,None
+zookeeper,m1ch1,None
+zookeeper,fpj,fpj@apache.org
+zookeeper,skamille,camille@apache.org
+zookeeper,rgs1,None
+zookeeper,cnauroth,None
+zookeeper,gkesavan,gkesavan@apache.org
+zookeeper,omalley,omalley@apache.org

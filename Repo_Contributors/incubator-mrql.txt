@@ -1,0 +1,5 @@
+incubator-mrql,fegaras,fegaras@cse.uta.edu
+incubator-mrql,edwardyoon,edwardyoon@apache.org
+incubator-mrql,maguro,adc@toolazydogs.com
+incubator-mrql,chiwanpark,chiwanpark@icloud.com
+incubator-mrql,rmetzger,None

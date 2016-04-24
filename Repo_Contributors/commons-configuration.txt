@@ -1,0 +1,14 @@
+commons-configuration,ebourg,ebourg@apache.org
+commons-configuration,rgoers,rgoers@apache.org
+commons-configuration,sebbASF,None
+commons-configuration,hgschmie,henning@schmiedehausen.org
+commons-configuration,joehni,joerg.schaible@gmx.de
+commons-configuration,brettporter,brett@apache.org
+commons-configuration,dennisl,None
+commons-configuration,mdiggory,None
+commons-configuration,rahu1,None
+commons-configuration,olamy,olamy@apache.org
+commons-configuration,itstechupnorth,None
+commons-configuration,mbenson,gudnabrsam@gmail.com
+commons-configuration,netomi,None
+commons-configuration,YoavShapira,None

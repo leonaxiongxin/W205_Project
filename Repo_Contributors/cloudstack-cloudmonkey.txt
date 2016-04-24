@@ -1,0 +1,11 @@
+cloudstack-cloudmonkey,rhtyd,rohit@yadav.xyz
+cloudstack-cloudmonkey,chiradeep,None
+cloudstack-cloudmonkey,pdion891,None
+cloudstack-cloudmonkey,chipchilders,chip.childers@gmail.com
+cloudstack-cloudmonkey,kelveny,None
+cloudstack-cloudmonkey,miurahr,miurahr@linux.com
+cloudstack-cloudmonkey,grudzien,grudzien@gmail.com
+cloudstack-cloudmonkey,ntavares,None
+cloudstack-cloudmonkey,phillipkent,phillip.kent@xmlsoup.com
+cloudstack-cloudmonkey,remibergsma,None
+cloudstack-cloudmonkey,yichi-lu,None

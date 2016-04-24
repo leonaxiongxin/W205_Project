@@ -1,0 +1,2 @@
+directory-clients,jimjag,None
+directory-clients,akarasulu,akarasulu@apache.org

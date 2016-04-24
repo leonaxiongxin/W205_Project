@@ -1,0 +1,10 @@
+commons-jci,tcurdt,None
+commons-jci,sebbASF,None
+commons-jci,ebourg,ebourg@apache.org
+commons-jci,dennisl,None
+commons-jci,rahu1,None
+commons-jci,brettporter,brett@apache.org
+commons-jci,dims,davanum@gmail.com
+commons-jci,mbenson,gudnabrsam@gmail.com
+commons-jci,olamy,olamy@apache.org
+commons-jci,bodewig,stefan.bodewig@freenet.de

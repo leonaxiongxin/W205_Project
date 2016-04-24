@@ -1,0 +1,6 @@
+directmemory,olamy,olamy@apache.org
+directmemory,simonetripodi,simonetripodi@apache.org
+directmemory,noctarius,me@noctarius.com
+directmemory,tteofili,None
+directmemory,mcucchiara,mcucchiara@apache.org
+directmemory,iocanel,iocanel@gmail.com

@@ -1,0 +1,16 @@
+cordova-plugin-whitelist,stevengill,stevengill97@gmail.com
+cordova-plugin-whitelist,shazron,shazron@gmail.com
+cordova-plugin-whitelist,agrieve,agrieve@chromium.org
+cordova-plugin-whitelist,dblotsky,dmitry.blotsky@gmail.com
+cordova-plugin-whitelist,csantanapr,None
+cordova-plugin-whitelist,eymorale,None
+cordova-plugin-whitelist,purplecabbage,None
+cordova-plugin-whitelist,jpchase,None
+cordova-plugin-whitelist,starquake,starquake@linuxeverywhere.org
+cordova-plugin-whitelist,infil00p,bowserj@apache.org
+cordova-plugin-whitelist,eweap,contact@e-weap.fr
+cordova-plugin-whitelist,revolunet,contact@revolunet.com
+cordova-plugin-whitelist,vaenow,luowenbiz@gmail.com
+cordova-plugin-whitelist,cfjedimaster,None
+cordova-plugin-whitelist,aabluedragon,aabluedragon@gmail.com
+cordova-plugin-whitelist,agamemnus,None

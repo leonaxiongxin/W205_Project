@@ -1,0 +1,3 @@
+ant-antlibs-common,bodewig,stefan.bodewig@freenet.de
+ant-antlibs-common,steveloughran,None
+ant-antlibs-common,mbenson,gudnabrsam@gmail.com

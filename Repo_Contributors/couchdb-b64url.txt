@@ -1,0 +1,4 @@
+couchdb-b64url,davisp,paul.joseph.davis@gmail.com
+couchdb-b64url,kxepal,None
+couchdb-b64url,wohali,wohali@atypical.net
+couchdb-b64url,rnewson,rnewson@apache.org

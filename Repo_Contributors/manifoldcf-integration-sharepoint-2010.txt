@@ -1,0 +1,2 @@
+manifoldcf-integration-sharepoint-2010,danielshahaf,danielsh apache org
+manifoldcf-integration-sharepoint-2010,OpenPj,None

@@ -1,0 +1,6 @@
+couchdb-couch-log,rnewson,rnewson@apache.org
+couchdb-couch-log,eiri,eiri@eiri.ca
+couchdb-couch-log,davisp,paul.joseph.davis@gmail.com
+couchdb-couch-log,kxepal,None
+couchdb-couch-log,mikewallace1979,mikewallace@apache.org
+couchdb-couch-log,robertkowalski,rok@kowalski.gd

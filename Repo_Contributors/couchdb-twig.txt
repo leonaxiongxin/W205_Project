@@ -1,0 +1,3 @@
+couchdb-twig,kocolosk,adam@kocolosk.net
+couchdb-twig,rnewson,rnewson@apache.org
+couchdb-twig,davisp,paul.joseph.davis@gmail.com

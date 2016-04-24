@@ -1,0 +1,3 @@
+spamassassin,mss,None
+spamassassin,fanf2,dot@dotat.at
+spamassassin,sstriker,s.striker@striker.nl

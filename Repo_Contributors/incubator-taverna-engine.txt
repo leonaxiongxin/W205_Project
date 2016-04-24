@@ -1,0 +1,5 @@
+incubator-taverna-engine,stain,stian@soiland-reyes.com
+incubator-taverna-engine,Christian-B,None
+incubator-taverna-engine,dkfellows,donal.k.fellows@manchester.ac.uk
+incubator-taverna-engine,alaninmcr,alan.r.williams@manchester.ac.uk
+incubator-taverna-engine,redmitry,None

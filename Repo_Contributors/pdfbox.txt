@@ -1,0 +1,5 @@
+pdfbox,THausherr,None
+pdfbox,lehmi,andreas@lehmi.de
+pdfbox,jahewson,john@jahewson.com
+pdfbox,jukka,jukka@zitting.name
+pdfbox,jmaerki,dev@jeremias-maerki.ch

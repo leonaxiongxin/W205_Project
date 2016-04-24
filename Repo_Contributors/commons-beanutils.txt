@@ -1,0 +1,15 @@
+commons-beanutils,itstechupnorth,None
+commons-beanutils,britter,None
+commons-beanutils,sebbASF,None
+commons-beanutils,rahu1,None
+commons-beanutils,mdiggory,None
+commons-beanutils,jstrachan,james.strachan@gmail.com
+commons-beanutils,olamy,olamy@apache.org
+commons-beanutils,baahmi,None
+commons-beanutils,dennisl,None
+commons-beanutils,mfncooper,None
+commons-beanutils,YoavShapira,None
+commons-beanutils,jvanzyl,jason@takari.io
+commons-beanutils,ebourg,ebourg@apache.org
+commons-beanutils,joehni,joerg.schaible@gmx.de
+commons-beanutils,mbenson,gudnabrsam@gmail.com

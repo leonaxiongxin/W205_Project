@@ -1,0 +1,9 @@
+servicemix4-specs,gnodet,None
+servicemix4-specs,jbonofre,jbonofre@apache.org
+servicemix4-specs,ffang,None
+servicemix4-specs,gertv,gert.vanthienen@gmail.com
+servicemix4-specs,dkulp,dan@kulp.com
+servicemix4-specs,ccustine,chris.custine@gmail.com
+servicemix4-specs,WillemJiang,None
+servicemix4-specs,lhein,None
+servicemix4-specs,jstrachan,james.strachan@gmail.com

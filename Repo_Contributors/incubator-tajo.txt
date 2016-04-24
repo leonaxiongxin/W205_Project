@@ -1,0 +1,11 @@
+incubator-tajo,hyunsik,hyunsik.choi@gmail.com
+incubator-tajo,jihoonson,jihoonson@apache.org
+incubator-tajo,jinossy,jhkim@apache.org
+incubator-tajo,ryuhyoseok,None
+incubator-tajo,haemiyang,akaham2@gmail.com
+incubator-tajo,hsaputra,hsaputra@apache.org
+incubator-tajo,ForElise,None
+incubator-tajo,soohyungkim,None
+incubator-tajo,chrismattmann,chris.mattmann@gmail.com
+incubator-tajo,byungnam,None
+incubator-tajo,sirpkt,sirpkt@apache.org

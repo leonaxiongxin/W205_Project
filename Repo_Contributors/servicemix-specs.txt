@@ -1,0 +1,13 @@
+servicemix-specs,gnodet,None
+servicemix-specs,jbonofre,jbonofre@apache.org
+servicemix-specs,ffang,None
+servicemix-specs,gertv,gert.vanthienen@gmail.com
+servicemix-specs,dkulp,dan@kulp.com
+servicemix-specs,sobkowiak,None
+servicemix-specs,WillemJiang,None
+servicemix-specs,ccustine,chris.custine@gmail.com
+servicemix-specs,oscerd,ancosen dot gmail dot com
+servicemix-specs,grgrzybek,gr.grzybek@gmail.com
+servicemix-specs,lhein,None
+servicemix-specs,jstrachan,james.strachan@gmail.com
+servicemix-specs,igarashitm,None

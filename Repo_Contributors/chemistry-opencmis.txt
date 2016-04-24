@@ -1,0 +1,6 @@
+chemistry-opencmis,fmui,None
+chemistry-opencmis,mindthegab,None
+chemistry-opencmis,mduerig,None
+chemistry-opencmis,Gagravarr,None
+chemistry-opencmis,jukka,jukka@zitting.name
+chemistry-opencmis,jpotts,None

@@ -1,0 +1,4 @@
+incubator-guacamole-manual,mike-jumper,mike.jumper@guac-dev.org
+incubator-guacamole-manual,jmuehlner,james.muehlner@guac-dev.org
+incubator-guacamole-manual,celldee,celldee@gmail.com
+incubator-guacamole-manual,pixelistik,None

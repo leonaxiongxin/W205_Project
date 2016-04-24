@@ -1,0 +1,4 @@
+openejb,dblevins,david.blevins@gmail.com
+openejb,mnour,nour.mohammad@gmail.com
+openejb,whitlockjc,jwhitlock@apache.org
+openejb,brettporter,brett@apache.org

@@ -1,0 +1,3 @@
+xml-graphics-commons,jmaerki,dev@jeremias-maerki.ch
+xml-graphics-commons,vhennebert,None
+xml-graphics-commons,spepping,sampepping@gmail.com

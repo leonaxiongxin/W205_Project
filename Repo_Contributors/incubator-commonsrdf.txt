@@ -1,0 +1,6 @@
+incubator-commonsrdf,stain,stian@soiland-reyes.com
+incubator-commonsrdf,wikier,sergio@wikier.org
+incubator-commonsrdf,ansell,None
+incubator-commonsrdf,afs,andy@seaborne.org
+incubator-commonsrdf,britter,None
+incubator-commonsrdf,ianwdunlop,None

@@ -1,0 +1,5 @@
+incubator-taverna-plugin-component,dkfellows,donal.k.fellows@manchester.ac.uk
+incubator-taverna-plugin-component,stain,stian@soiland-reyes.com
+incubator-taverna-plugin-component,Christian-B,None
+incubator-taverna-plugin-component,alaninmcr,alan.r.williams@manchester.ac.uk
+incubator-taverna-plugin-component,redmitry,None

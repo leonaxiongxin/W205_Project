@@ -1,0 +1,3 @@
+axis2-transports,veithen,None
+axis2-transports,dims,davanum@gmail.com
+axis2-transports,gmcdonald,None

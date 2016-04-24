@@ -1,0 +1,11 @@
+commons-daemon,mturk,mturk@jboss.org
+commons-daemon,sebbASF,None
+commons-daemon,mdiggory,None
+commons-daemon,YoavShapira,None
+commons-daemon,markt-asf,None
+commons-daemon,rahu1,None
+commons-daemon,dennisl,None
+commons-daemon,rmaucher,None
+commons-daemon,ebourg,ebourg@apache.org
+commons-daemon,mbenson,gudnabrsam@gmail.com
+commons-daemon,olamy,olamy@apache.org

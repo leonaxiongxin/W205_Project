@@ -1,0 +1,7 @@
+incubator-brooklyn-site,rdowner,richard@apache.org
+incubator-brooklyn-site,ahgittin,alex.heneveld@cloudsoftcorp.com
+incubator-brooklyn-site,richardcloudsoft,richard+github@cloudsoftcorp.com
+incubator-brooklyn-site,sjcorbett,sam.corbett@cloudsoftcorp.com
+incubator-brooklyn-site,alasdairhodge,None
+incubator-brooklyn-site,andreaturli,None
+incubator-brooklyn-site,kitforbes,kitforbes@gmail.com

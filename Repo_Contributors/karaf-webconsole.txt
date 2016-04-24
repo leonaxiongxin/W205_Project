@@ -1,0 +1,5 @@
+karaf-webconsole,splatch,None
+karaf-webconsole,anpieber,anpieber@gmail.com
+karaf-webconsole,cmoulliard,ch007m@gmail.com
+karaf-webconsole,jbonofre,jbonofre@apache.org
+karaf-webconsole,ffang,None

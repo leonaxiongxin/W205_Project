@@ -1,0 +1,3 @@
+james-hupa,wangdx,dongxu@apache.org
+james-hupa,manolo,manolo@apache.org
+james-hupa,normanmaurer,norman.maurer@googlemail.com

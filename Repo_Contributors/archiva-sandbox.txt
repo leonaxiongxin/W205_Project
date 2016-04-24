@@ -1,0 +1,2 @@
+archiva-sandbox,olamy,olamy@apache.org
+archiva-sandbox,brettporter,brett@apache.org

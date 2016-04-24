@@ -1,0 +1,5 @@
+airavata-sandbox,glahiru,lahiru@apache.org
+airavata-sandbox,smarru,smarru@apache.org
+airavata-sandbox,ramindersingh,None
+airavata-sandbox,smccaula,scottmccaulay@gmail.com
+airavata-sandbox,scnakandala,supun.nakandala@gmail.com

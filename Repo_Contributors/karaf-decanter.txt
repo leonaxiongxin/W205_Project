@@ -1,0 +1,7 @@
+karaf-decanter,jbonofre,jbonofre@apache.org
+karaf-decanter,cschneider,None
+karaf-decanter,ANierbeck,None
+karaf-decanter,salyh,hendrikdev22@gmail.com
+karaf-decanter,garyhodgson,contact@garyhodgson.com
+karaf-decanter,mhautman,morgan.hautman@gmail.com
+karaf-decanter,akuhtz,None

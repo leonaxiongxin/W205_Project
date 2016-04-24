@@ -1,0 +1,11 @@
+marmotta,wikier,sergio@wikier.org
+marmotta,ja-fra,None
+marmotta,ansell,None
+marmotta,westei,rupert.westenthaler@gmail.com
+marmotta,tkurz,th.kurz@gmail.com
+marmotta,dglachs,None
+marmotta,schlegel,None
+marmotta,zirafel,None
+marmotta,cbeer,chris@cbeer.info
+marmotta,anarchivist,None
+marmotta,wastl,sschaffert@apache.org

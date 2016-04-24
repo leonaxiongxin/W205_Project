@@ -1,0 +1,4 @@
+cordova-plugin-compat,stevengill,2016-04-15T20:45:28
+cordova-plugin-compat,stevengill,2016-04-15T20:08:27
+cordova-plugin-compat,macdonst,2016-04-04T23:54:00
+cordova-plugin-compat,macdonst,2016-03-31T19:57:35

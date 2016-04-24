@@ -1,0 +1,4 @@
+directory-daemon,akarasulu,akarasulu@apache.org
+directory-daemon,trustin,t@motd.kr
+directory-daemon,ccustine,chris.custine@gmail.com
+directory-daemon,jimjag,None

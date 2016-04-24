@@ -1,0 +1,11 @@
+olingo-odata4,ilgrosso,ilgrosso@apache.org
+olingo-odata4,fmartelli,fabio.martelli@gmail.com
+olingo-odata4,sklevenz,None
+olingo-odata4,rareddy,rareddy@jboss.org
+olingo-odata4,s-ko-mo,None
+olingo-odata4,challenh,None
+olingo-odata4,mibo,None
+olingo-odata4,elakito,None
+olingo-odata4,eduardkoller,None
+olingo-odata4,shawkins,None
+olingo-odata4,vikramp,None

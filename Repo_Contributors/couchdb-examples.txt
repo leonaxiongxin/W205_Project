@@ -1,0 +1,3 @@
+couchdb-examples,janl,jan@apache.org
+couchdb-examples,marianoguerra,mariano@marianoguerra.org
+couchdb-examples,rnewson,rnewson@apache.org

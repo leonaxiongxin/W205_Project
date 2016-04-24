@@ -1,0 +1,13 @@
+cordova-wp7,purplecabbage,None
+cordova-wp7,bennmapes,None
+cordova-wp7,hermwong,None
+cordova-wp7,filmaj,fil@saucelabs.com
+cordova-wp7,mrlacey,github@mrlacey.co.uk
+cordova-wp7,jsoref,None
+cordova-wp7,sgrebnov,sergei.grebnov@gmail.com
+cordova-wp7,shazron,shazron@gmail.com
+cordova-wp7,agrieve,agrieve@chromium.org
+cordova-wp7,stevengill,stevengill97@gmail.com
+cordova-wp7,mwbrooks,michael@michaelbrooks.ca
+cordova-wp7,okamototk,None
+cordova-wp7,pcibraro,None

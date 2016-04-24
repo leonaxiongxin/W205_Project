@@ -1,0 +1,7 @@
+commons-primitives,mdiggory,None
+commons-primitives,sebbASF,None
+commons-primitives,olamy,olamy@apache.org
+commons-primitives,rahu1,None
+commons-primitives,akarasulu,akarasulu@apache.org
+commons-primitives,mbenson,gudnabrsam@gmail.com
+commons-primitives,dennisl,None

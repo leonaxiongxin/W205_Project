@@ -1,0 +1,6 @@
+tomee-site,dblevins,david.blevins@gmail.com
+tomee-site,AndyGee,agumbrecht@tomitribe.com
+tomee-site,rmannibucau,None
+tomee-site,tveronezi,None
+tomee-site,danielshahaf,danielsh apache org
+tomee-site,struberg,struberg@yahoo.de

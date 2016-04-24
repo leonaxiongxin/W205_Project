@@ -1,0 +1,6 @@
+couchdb-couch-dbupdates,rnewson,rnewson@apache.org
+couchdb-couch-dbupdates,iilyak,None
+couchdb-couch-dbupdates,djc,None
+couchdb-couch-dbupdates,kxepal,None
+couchdb-couch-dbupdates,janl,jan@apache.org
+couchdb-couch-dbupdates,robertkowalski,rok@kowalski.gd

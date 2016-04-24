@@ -1,0 +1,16 @@
+commons-compress,bodewig,stefan.bodewig@freenet.de
+commons-compress,sebbASF,None
+commons-compress,grobmeier,None
+commons-compress,ebourg,ebourg@apache.org
+commons-compress,tcurdt,None
+commons-compress,krosenvold,kristian.rosenvold@gmail.com
+commons-compress,dennisl,None
+commons-compress,jukka,jukka@zitting.name
+commons-compress,dweiss,None
+commons-compress,beargiles,None
+commons-compress,rahu1,None
+commons-compress,rpreissel,None
+commons-compress,UncleOwen,None
+commons-compress,weirdkid,None
+commons-compress,mbenson,gudnabrsam@gmail.com
+commons-compress,olamy,olamy@apache.org

@@ -1,0 +1,7 @@
+couchdb-ibrowse,fdmanana,fdmanana@kernel.org
+couchdb-ibrowse,kocolosk,adam@kocolosk.net
+couchdb-ibrowse,janl,jan@apache.org
+couchdb-ibrowse,rnewson,rnewson@apache.org
+couchdb-ibrowse,davisp,paul.joseph.davis@gmail.com
+couchdb-ibrowse,nslater,nslater@apache.org
+couchdb-ibrowse,jchris,jchris@gmail.com

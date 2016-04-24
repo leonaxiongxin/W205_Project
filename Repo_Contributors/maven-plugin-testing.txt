@@ -1,0 +1,9 @@
+maven-plugin-testing,olamy,olamy@apache.org
+maven-plugin-testing,bentmann,None
+maven-plugin-testing,hboutemy,hboutemy@apache.org
+maven-plugin-testing,ifedorenko,None
+maven-plugin-testing,krosenvold,kristian.rosenvold@gmail.com
+maven-plugin-testing,jvanzyl,jason@takari.io
+maven-plugin-testing,dennisl,None
+maven-plugin-testing,aheritier,aheritier@apache.org
+maven-plugin-testing,brianf,None

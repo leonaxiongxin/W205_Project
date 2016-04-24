@@ -1,0 +1,7 @@
+cordova-plugin-wkwebview-engine,shazron,shazron@gmail.com
+cordova-plugin-wkwebview-engine,stevengill,stevengill97@gmail.com
+cordova-plugin-wkwebview-engine,vladimir-kotikov,v-vlkoti@microsoft.com
+cordova-plugin-wkwebview-engine,jamesandersen,None
+cordova-plugin-wkwebview-engine,purplecabbage,None
+cordova-plugin-wkwebview-engine,tabrindle,tabrindle@gmail.com
+cordova-plugin-wkwebview-engine,daserge,None

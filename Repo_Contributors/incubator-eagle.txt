@@ -1,0 +1,10 @@
+incubator-eagle,haoch,hao@apache.org
+incubator-eagle,sunlibin,abnersunlibin@gmail.com
+incubator-eagle,yonzhang,None
+incubator-eagle,zombieJ,None
+incubator-eagle,qingwen220,qingwzhao@ebay.com
+incubator-eagle,chaitaligupta,None
+incubator-eagle,hdendukuri,None
+incubator-eagle,qinzhaokun,qinzhaokun@gmail.com
+incubator-eagle,armanoharan,aruncarthick@gmail.com
+incubator-eagle,RalphSu,suliangfei#gmail.com

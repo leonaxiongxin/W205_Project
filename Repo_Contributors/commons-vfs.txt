@@ -1,0 +1,14 @@
+commons-vfs,rgoers,rgoers@apache.org
+commons-vfs,sebbASF,None
+commons-vfs,ecki,bernd-2016@eckenfels.net
+commons-vfs,joehni,joerg.schaible@gmx.de
+commons-vfs,rahu1,None
+commons-vfs,hgschmie,henning@schmiedehausen.org
+commons-vfs,netomi,None
+commons-vfs,jstrachan,james.strachan@gmail.com
+commons-vfs,britter,None
+commons-vfs,grobmeier,None
+commons-vfs,bodewig,stefan.bodewig@freenet.de
+commons-vfs,mbenson,gudnabrsam@gmail.com
+commons-vfs,olamy,olamy@apache.org
+commons-vfs,itstechupnorth,None

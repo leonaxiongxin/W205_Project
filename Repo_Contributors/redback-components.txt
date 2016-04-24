@@ -1,0 +1,5 @@
+redback-components,olamy,olamy@apache.org
+redback-components,jbonofre,jbonofre@apache.org
+redback-components,ebarboni,skygo@apache.org
+redback-components,brettporter,brett@apache.org
+redback-components,oching,None

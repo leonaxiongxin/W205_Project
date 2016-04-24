@@ -1,0 +1,10 @@
+flex-site,aharui,None
+flex-site,justinmclean,justin@classsoftware.com
+flex-site,bigosmallm,None
+flex-site,doublefx,fthomas@apache.org
+flex-site,bdelacretaz,bdelacretaz@apache.org
+flex-site,s9tpepper,s9tpepper@apache.org
+flex-site,josebarragan,None
+flex-site,joshtynjala,None
+flex-site,danielshahaf,danielsh apache org
+flex-site,kevinGodell,None

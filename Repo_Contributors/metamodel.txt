@@ -1,0 +1,16 @@
+metamodel,kaspersorensen,i.am.kasper.sorensen@gmail.com
+metamodel,ankit2711,ak.ankitkumar@gmail.com
+metamodel,tomaszguzialek,tomasz@guzialek.info
+metamodel,albertostratio,arodriguez@stratio.com
+metamodel,LosD,None
+metamodel,Balendra,None
+metamodel,ardlema,ardlema@gmail.com
+metamodel,harel-e,None
+metamodel,ashwinrayaprolu1984,None
+metamodel,b789,None
+metamodel,fjcano-stratio,fjcano@stratio.com
+metamodel,Gaganjuneja,gagandeepjuneja@gmail.com
+metamodel,hsaputra,hsaputra@apache.org
+metamodel,narahari92,hnr1992@gmail.com
+metamodel,mishadoff,mishadoff@gmail.com
+metamodel,xmpy,xiaomengzhaopy@gmail.com

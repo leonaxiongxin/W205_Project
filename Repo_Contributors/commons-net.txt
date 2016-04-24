@@ -1,0 +1,9 @@
+commons-net,sebbASF,None
+commons-net,olamy,olamy@apache.org
+commons-net,rahu1,None
+commons-net,mdiggory,None
+commons-net,jstrachan,james.strachan@gmail.com
+commons-net,dennisl,None
+commons-net,jvanzyl,jason@takari.io
+commons-net,mbenson,gudnabrsam@gmail.com
+commons-net,itstechupnorth,None

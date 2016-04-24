@@ -1,0 +1,10 @@
+directory-project,akarasulu,akarasulu@apache.org
+directory-project,ersiner,None
+directory-project,trustin,t@motd.kr
+directory-project,pamarcelot,None
+directory-project,seelmann,None
+directory-project,osi,peter.royal@pobox.com
+directory-project,jvermillard,jvermillard@apache.org
+directory-project,jimjag,None
+directory-project,brettporter,brett@apache.org
+directory-project,coheigea,None

@@ -1,0 +1,11 @@
+incubator-tez,sidseth,None
+incubator-tez,hiteshs,hitesh@apache.org
+incubator-tez,t3rmin4t0r,gopalv@php.net
+incubator-tez,rbalamohan,None
+incubator-tez,mikelid,None
+incubator-tez,gkesavan,gkesavan@apache.org
+incubator-tez,hagleitn,hagleitn@yahoo.com
+incubator-tez,tassapol-hortonworks,tathiapinya@hortonworks.com
+incubator-tez,acmurthy,acm@hortonworks.com
+incubator-tez,bikassaha,None
+incubator-tez,cmbasics,raja@cmbasics.com

@@ -1,0 +1,11 @@
+incubator-quickstep,cramja,None
+incubator-quickstep,jianqiao,None
+incubator-quickstep,zuyu,None
+incubator-quickstep,pateljm,None
+incubator-quickstep,saketj,None
+incubator-quickstep,hakanmemisoglu,hakanmemisoglu@gmail.com
+incubator-quickstep,hbdeshmukh,None
+incubator-quickstep,craig-chasseur,None
+incubator-quickstep,rogersjeffreyl,rl@cs.wisc.edu
+incubator-quickstep,rvs,roman@shaposhnik.org
+incubator-quickstep,adalbertgerald,None

@@ -1,0 +1,3 @@
+uima-uimaj,reckart,None
+uima-uimaj,tteofili,None
+uima-uimaj,RoUS,The.Rodent.of.Unusual.Size@GMail.Com

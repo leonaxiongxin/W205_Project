@@ -1,0 +1,17 @@
+maven-2,brettporter,brett@apache.org
+maven-2,jvanzyl,jason@takari.io
+maven-2,brianf,None
+maven-2,carlossg,carlos@apache.org
+maven-2,hboutemy,hboutemy@apache.org
+maven-2,neonics,None
+maven-2,bentmann,None
+maven-2,dennisl,None
+maven-2,pgier,None
+maven-2,olamy,olamy@apache.org
+maven-2,rgoers,rgoers@apache.org
+maven-2,ndeloof,nicolas.deloof@gmail.com
+maven-2,ltheussl,None
+maven-2,onisuzume,None
+maven-2,aheritier,aheritier@apache.org
+maven-2,oching,None
+maven-2,osi,peter.royal@pobox.com

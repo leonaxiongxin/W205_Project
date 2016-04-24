@@ -1,0 +1,9 @@
+commons-jcs,tvand,None
+commons-jcs,rmannibucau,None
+commons-jcs,sebbASF,None
+commons-jcs,olamy,olamy@apache.org
+commons-jcs,danielrall,None
+commons-jcs,struberg,struberg@yahoo.de
+commons-jcs,jvanzyl,jason@takari.io
+commons-jcs,mebigfatguy,dbrosius@mebigfatguy.com
+commons-jcs,baahmi,None

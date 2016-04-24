@@ -1,0 +1,16 @@
+helix,slu2011,None
+helix,kishoreg,None
+helix,kanakb,None
+helix,zzhang5,None
+helix,olamy,olamy@apache.org
+helix,brandtg,brandt.greg@gmail.com
+helix,camillser,None
+helix,lei-xia,None
+helix,liyinan926,liyinan926@gmail.com
+helix,atcurtis,atcurtis@gmail.com
+helix,santip,None
+helix,sjagadish,None
+helix,acmcelwee,None
+helix,hangqi,None
+helix,jheise,j.heise@gmail.com
+helix,sbilstein,sbilstein@gmail.com

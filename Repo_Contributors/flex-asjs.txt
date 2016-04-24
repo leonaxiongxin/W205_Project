@@ -1,0 +1,10 @@
+flex-asjs,aharui,None
+flex-asjs,erikdebruin,None
+flex-asjs,bigosmallm,None
+flex-asjs,Harbs,None
+flex-asjs,joshtynjala,None
+flex-asjs,doublefx,fthomas@apache.org
+flex-asjs,carlosrovira,None
+flex-asjs,danielshahaf,danielsh apache org
+flex-asjs,adufilie,andy.dufilie@gmail.com
+flex-asjs,kevinGodell,None

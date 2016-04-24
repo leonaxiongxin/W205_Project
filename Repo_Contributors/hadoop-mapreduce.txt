@@ -1,0 +1,8 @@
+hadoop-mapreduce,cdouglas,cdouglas@apache.org
+hadoop-mapreduce,sharadag,None
+hadoop-mapreduce,omalley,omalley@apache.org
+hadoop-mapreduce,gkesavan,gkesavan@apache.org
+hadoop-mapreduce,acmurthy,acm@hortonworks.com
+hadoop-mapreduce,enis,enis[at]apache.org
+hadoop-mapreduce,cutting,cutting@apache.org
+hadoop-mapreduce,shvachko,None

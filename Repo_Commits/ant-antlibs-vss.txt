@@ -1,0 +1,8 @@
+ant-antlibs-vss,bodewig,2014-07-19T19:17:00
+ant-antlibs-vss,None,0
+ant-antlibs-vss,bodewig,2010-11-16T16:11:28
+ant-antlibs-vss,None,0
+ant-antlibs-vss,None,0
+ant-antlibs-vss,None,0
+ant-antlibs-vss,None,0
+ant-antlibs-vss,None,0

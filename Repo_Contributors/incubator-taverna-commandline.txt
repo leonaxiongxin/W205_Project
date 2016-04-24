@@ -1,0 +1,4 @@
+incubator-taverna-commandline,stain,stian@soiland-reyes.com
+incubator-taverna-commandline,Christian-B,None
+incubator-taverna-commandline,redmitry,None
+incubator-taverna-commandline,dkfellows,donal.k.fellows@manchester.ac.uk

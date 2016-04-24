@@ -1,0 +1,27 @@
+cordova-plugin-battery-status,stevengill,stevengill97@gmail.com
+cordova-plugin-battery-status,purplecabbage,None
+cordova-plugin-battery-status,agrieve,agrieve@chromium.org
+cordova-plugin-battery-status,ldeluca,cpup22@gmail.com
+cordova-plugin-battery-status,clelland,clelland@gmail.com
+cordova-plugin-battery-status,cmarcelk,None
+cordova-plugin-battery-status,dblotsky,dmitry.blotsky@gmail.com
+cordova-plugin-battery-status,martincgg,martin.c.glez.glez@gmail.com
+cordova-plugin-battery-status,hardeep,None
+cordova-plugin-battery-status,bennmapes,None
+cordova-plugin-battery-status,mwbrooks,michael@michaelbrooks.ca
+cordova-plugin-battery-status,daserge,None
+cordova-plugin-battery-status,infil00p,bowserj@apache.org
+cordova-plugin-battery-status,filmaj,fil@saucelabs.com
+cordova-plugin-battery-status,Zaspire,ermilov.maxim@gmail.com
+cordova-plugin-battery-status,zalun,piotr [at] zalewa.info
+cordova-plugin-battery-status,cfjedimaster,None
+cordova-plugin-battery-status,rixrix,None
+cordova-plugin-battery-status,rodms10,None
+cordova-plugin-battery-status,siovene,salvatore@iovene.com
+cordova-plugin-battery-status,vladimir-kotikov,v-vlkoti@microsoft.com
+cordova-plugin-battery-status,alsorokin,alexander.sorokin@akvelon.com
+cordova-plugin-battery-status,bryanhiggins,None
+cordova-plugin-battery-status,peiw-fu,None
+cordova-plugin-battery-status,hermwong,None
+cordova-plugin-battery-status,sgrebnov,sergei.grebnov@gmail.com
+cordova-plugin-battery-status,t1st3,None

@@ -1,0 +1,4 @@
+cordova-labs,mwbrooks,michael@michaelbrooks.ca
+cordova-labs,hermwong,None
+cordova-labs,brianleroux,b@brian.io
+cordova-labs,cmarcelk,None

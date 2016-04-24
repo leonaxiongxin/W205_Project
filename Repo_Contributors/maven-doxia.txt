@@ -1,0 +1,17 @@
+maven-doxia,ltheussl,None
+maven-doxia,hboutemy,hboutemy@apache.org
+maven-doxia,dennisl,None
+maven-doxia,jvanzyl,jason@takari.io
+maven-doxia,brettporter,brett@apache.org
+maven-doxia,rfscholte,rfscholte@apache.org
+maven-doxia,olamy,olamy@apache.org
+maven-doxia,stephenc,None
+maven-doxia,carlossg,carlos@apache.org
+maven-doxia,bentmann,None
+maven-doxia,michael-o,None
+maven-doxia,brianf,None
+maven-doxia,neonics,None
+maven-doxia,krosenvold,kristian.rosenvold@gmail.com
+maven-doxia,aheritier,aheritier@apache.org
+maven-doxia,bimargulies,None
+maven-doxia,khmarbaise,github@soebes.com

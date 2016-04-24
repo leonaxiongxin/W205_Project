@@ -1,0 +1,4 @@
+mrunit,cdouglas,cdouglas@apache.org
+mrunit,omalley,omalley@apache.org
+mrunit,cutting,cutting@apache.org
+mrunit,acmurthy,acm@hortonworks.com

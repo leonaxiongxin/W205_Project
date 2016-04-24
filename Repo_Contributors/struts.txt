@@ -1,0 +1,21 @@
+struts,lukaszlenart,lukasz.lenart@gmail.com
+struts,ted-husted,None
+struts,jogep,post@jgeppert.com
+struts,mcucchiara,mcucchiara@apache.org
+struts,rgielen,None
+struts,victorsosa,None
+struts,grobmeier,None
+struts,aleksandr-m,None
+struts,swiftelan,None
+struts,foogaro,luigi@foogaro.com
+struts,mfncooper,None
+struts,andrea-ligios,None
+struts,phillips1021,phillips1021@hotmail.com
+struts,quaff,zhouyanming@gmail.com
+struts,perfnorm,None
+struts,joshmabry,None
+struts,rpii,None
+struts,gregh3269,None
+struts,stevensmi,None
+struts,bitcod3r,i.am at bitcoder.net
+struts,nkjackzhang,None

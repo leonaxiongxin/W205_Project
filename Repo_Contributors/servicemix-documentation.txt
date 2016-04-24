@@ -1,0 +1,2 @@
+servicemix-documentation,gertv,gert.vanthienen@gmail.com
+servicemix-documentation,jbonofre,jbonofre@apache.org

@@ -1,0 +1,2 @@
+cordova-plugin-compat,macdonst,None
+cordova-plugin-compat,stevengill,stevengill97@gmail.com

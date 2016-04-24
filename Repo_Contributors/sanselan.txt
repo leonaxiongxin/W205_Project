@@ -1,0 +1,4 @@
+sanselan,sebbASF,None
+sanselan,cziegeler,None
+sanselan,ebourg,ebourg@apache.org
+sanselan,jmaerki,dev@jeremias-maerki.ch

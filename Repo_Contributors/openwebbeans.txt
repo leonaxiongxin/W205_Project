@@ -1,0 +1,11 @@
+openwebbeans,struberg,struberg@yahoo.de
+openwebbeans,rmannibucau,None
+openwebbeans,covener,covener@apache.org
+openwebbeans,dblevins,david.blevins@gmail.com
+openwebbeans,jbergmark,None
+openwebbeans,gpetracek,gpetracek@apache.org
+openwebbeans,tandraschko,tandraschko@apache.org
+openwebbeans,rsandtner,rsandtner@apache.org
+openwebbeans,mnour,nour.mohammad@gmail.com
+openwebbeans,matzew,matzew@apache.org
+openwebbeans,gmcdonald,None

@@ -1,0 +1,11 @@
+maven-indexer,cstamas,tamas@cservenak.net
+maven-indexer,olamy,olamy@apache.org
+maven-indexer,hboutemy,hboutemy@apache.org
+maven-indexer,bdemers,bdemers@apache.org
+maven-indexer,carlspring,carlspring@gmail.com
+maven-indexer,brettporter,brett@apache.org
+maven-indexer,dennisl,None
+maven-indexer,ifedorenko,None
+maven-indexer,bentmann,None
+maven-indexer,Enygma2002,None
+maven-indexer,brianf,None

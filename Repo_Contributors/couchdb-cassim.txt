@@ -1,0 +1,4 @@
+couchdb-cassim,chewbranca,None
+couchdb-cassim,kxepal,None
+couchdb-cassim,davisp,paul.joseph.davis@gmail.com
+couchdb-cassim,rnewson,rnewson@apache.org

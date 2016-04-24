@@ -1,0 +1,14 @@
+commons-logging,itstechupnorth,None
+commons-logging,dennisl,None
+commons-logging,netomi,None
+commons-logging,sebbASF,None
+commons-logging,costinm,costin@apache.org
+commons-logging,mdiggory,None
+commons-logging,jvanzyl,jason@takari.io
+commons-logging,rahu1,None
+commons-logging,brettporter,brett@apache.org
+commons-logging,olamy,olamy@apache.org
+commons-logging,mbenson,gudnabrsam@gmail.com
+commons-logging,jstrachan,james.strachan@gmail.com
+commons-logging,osi,peter.royal@pobox.com
+commons-logging,realityforge,None

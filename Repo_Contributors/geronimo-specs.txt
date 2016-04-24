@@ -1,0 +1,5 @@
+geronimo-specs,dblevins,david.blevins@gmail.com
+geronimo-specs,jvanzyl,jason@takari.io
+geronimo-specs,dims,davanum@gmail.com
+geronimo-specs,chirino,hiram@hiramchirino.com
+geronimo-specs,jstrachan,james.strachan@gmail.com

@@ -1,0 +1,10 @@
+rave,mfranklin,None
+rave,jashaj,None
+rave,ramindersingh,None
+rave,rgardler,ross.gardler@microsoft.com
+rave,geerzo,None
+rave,hzbarcea,None
+rave,jmeas,None
+rave,oharsta,oharsta@zilverline.com
+rave,smarru,smarru@apache.org
+rave,woonsan,None

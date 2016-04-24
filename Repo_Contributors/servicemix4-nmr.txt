@@ -1,0 +1,7 @@
+servicemix4-nmr,gnodet,None
+servicemix4-nmr,ffang,None
+servicemix4-nmr,gertv,gert.vanthienen@gmail.com
+servicemix4-nmr,ccustine,chris.custine@gmail.com
+servicemix4-nmr,lhein,None
+servicemix4-nmr,jgoodyear,None
+servicemix4-nmr,chirino,hiram@hiramchirino.com

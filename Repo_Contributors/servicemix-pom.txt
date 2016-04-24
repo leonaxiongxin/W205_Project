@@ -1,0 +1,7 @@
+servicemix-pom,jbonofre,jbonofre@apache.org
+servicemix-pom,gertv,gert.vanthienen@gmail.com
+servicemix-pom,lhein,None
+servicemix-pom,chirino,hiram@hiramchirino.com
+servicemix-pom,WillemJiang,None
+servicemix-pom,ccustine,chris.custine@gmail.com
+servicemix-pom,gnodet,None

@@ -1,0 +1,2 @@
+struts-annotations,lukaszlenart,lukasz.lenart@gmail.com
+struts-annotations,rgielen,None

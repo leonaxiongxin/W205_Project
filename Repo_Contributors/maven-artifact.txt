@@ -1,0 +1,11 @@
+maven-artifact,brettporter,brett@apache.org
+maven-artifact,jvanzyl,jason@takari.io
+maven-artifact,carlossg,carlos@apache.org
+maven-artifact,neonics,None
+maven-artifact,hboutemy,hboutemy@apache.org
+maven-artifact,brianf,None
+maven-artifact,bentmann,None
+maven-artifact,rgoers,rgoers@apache.org
+maven-artifact,aheritier,aheritier@apache.org
+maven-artifact,ndeloof,nicolas.deloof@gmail.com
+maven-artifact,onisuzume,None

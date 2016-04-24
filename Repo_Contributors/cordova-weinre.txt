@@ -1,0 +1,5 @@
+cordova-weinre,pmuellr,None
+cordova-weinre,sgrebnov,sergei.grebnov@gmail.com
+cordova-weinre,cmarcelk,None
+cordova-weinre,fenghaitao,haitao.feng@intel.com
+cordova-weinre,shteou,None

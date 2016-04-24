@@ -1,0 +1,6 @@
+couchdb-ets-lru,davisp,paul.joseph.davis@gmail.com
+couchdb-ets-lru,kxepal,None
+couchdb-ets-lru,rnewson,rnewson@apache.org
+couchdb-ets-lru,eiri,eiri@eiri.ca
+couchdb-ets-lru,nickva,None
+couchdb-ets-lru,robertkowalski,rok@kowalski.gd

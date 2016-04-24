@@ -1,0 +1,12 @@
+cordova-osx,tripodsan,None
+cordova-osx,shazron,shazron@gmail.com
+cordova-osx,stevengill,stevengill97@gmail.com
+cordova-osx,RandyMcMillan,randy.lee.mcmillan@gmail.com
+cordova-osx,agrieve,agrieve@chromium.org
+cordova-osx,purplecabbage,None
+cordova-osx,SahilBh,None
+cordova-osx,cmarcelk,None
+cordova-osx,asgeo1,None
+cordova-osx,akubera,None
+cordova-osx,filmaj,fil@saucelabs.com
+cordova-osx,spirylics,None

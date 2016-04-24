@@ -1,0 +1,4 @@
+lenya,devkat,None
+lenya,scherler,None
+lenya,stefanom,stefano@apache.org
+lenya,pfumagalli,pier@usrz.com

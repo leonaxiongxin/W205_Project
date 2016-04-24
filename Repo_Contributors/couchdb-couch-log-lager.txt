@@ -1,0 +1,3 @@
+couchdb-couch-log-lager,eiri,eiri@eiri.ca
+couchdb-couch-log-lager,kxepal,None
+couchdb-couch-log-lager,jaydoane,github.com@jay.m82.com

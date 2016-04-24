@@ -1,0 +1,4 @@
+couchdb-couch-httpd,benoitc,bchesneau@gmail.com
+couchdb-couch-httpd,NorthNick,None
+couchdb-couch-httpd,kocolosk,adam@kocolosk.net
+couchdb-couch-httpd,lemenkov,lemenkov@gmail.com

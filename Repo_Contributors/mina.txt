@@ -1,0 +1,13 @@
+mina,trustin,t@motd.kr
+mina,jvermillard,jvermillard@apache.org
+mina,akarasulu,akarasulu@apache.org
+mina,jeffmaury,None
+mina,osi,peter.royal@pobox.com
+mina,rbarazzutti,None
+mina,mheath,None
+mina,paliwalashish,apaliwal@apache.org
+mina,ersiner,None
+mina,msangoi,msangoi@sierrawireless.com
+mina,jimjag,None
+mina,orfjackal,esko@luontola.fi
+mina,gnodet,None

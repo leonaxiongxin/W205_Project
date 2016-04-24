@@ -1,0 +1,4 @@
+couchdb-couch-epi,iilyak,None
+couchdb-couch-epi,kxepal,None
+couchdb-couch-epi,rnewson,rnewson@apache.org
+couchdb-couch-epi,eiri,eiri@eiri.ca

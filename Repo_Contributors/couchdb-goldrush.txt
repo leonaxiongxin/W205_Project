@@ -1,0 +1,2 @@
+couchdb-goldrush,DeadZen,deadzen@deadzen.com
+couchdb-goldrush,amiramix,None

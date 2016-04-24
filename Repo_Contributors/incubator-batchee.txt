@@ -1,0 +1,4 @@
+incubator-batchee,rmannibucau,None
+incubator-batchee,struberg,struberg@yahoo.de
+incubator-batchee,olamy,olamy@apache.org
+incubator-batchee,rsandtner,rsandtner@apache.org

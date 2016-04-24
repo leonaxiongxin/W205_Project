@@ -1,0 +1,10 @@
+tomcat,markt-asf,None
+tomcat,rmaucher,None
+tomcat,violetagg,None
+tomcat,mturk,mturk@jboss.org
+tomcat,costinm,costin@apache.org
+tomcat,sylvainlaurent,None
+tomcat,YoavShapira,None
+tomcat,olamy,olamy@apache.org
+tomcat,jimjag,None
+tomcat,martin-g,mgrigorov at apache org

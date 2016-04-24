@@ -1,0 +1,9 @@
+giraph,aching,None
+giraph,jghoman,Do not send me emails
+giraph,ereisman,None
+giraph,hyunsik,hyunsik.choi@gmail.com
+giraph,nitay,None
+giraph,omalley,omalley@apache.org
+giraph,xslogic,arun.suresh@gmail.com
+giraph,claudiomartella,None
+giraph,jakemannix,Twitter/@pbrane

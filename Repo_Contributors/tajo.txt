@@ -1,0 +1,25 @@
+tajo,hyunsik,hyunsik.choi@gmail.com
+tajo,jihoonson,jihoonson@apache.org
+tajo,jinossy,jhkim@apache.org
+tajo,blrunner,blrunner@naver.com
+tajo,dkhwangbo,None
+tajo,eminency,None
+tajo,navis,navis@apache.org
+tajo,charsyam,charsyam@naver.com
+tajo,dongjoon-hyun,dongjoon@apache.org
+tajo,ryuhyoseok,None
+tajo,sirpkt,sirpkt@apache.org
+tajo,haemiyang,akaham2@gmail.com
+tajo,hsaputra,hsaputra@apache.org
+tajo,combineads,None
+tajo,ForElise,None
+tajo,hys9958,hanyounsu@gmail.com
+tajo,soohyungkim,None
+tajo,superpiggy,None
+tajo,jghoman,Do not send me emails
+tajo,babokim,None
+tajo,chrismattmann,chris.mattmann@gmail.com
+tajo,coderplay,coderplay@gmail.com
+tajo,keybod,None
+tajo,byungnam,None
+tajo,swlsw,None

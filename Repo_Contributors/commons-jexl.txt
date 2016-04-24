@@ -1,0 +1,14 @@
+commons-jexl,sebbASF,None
+commons-jexl,rahu1,None
+commons-jexl,jstrachan,james.strachan@gmail.com
+commons-jexl,ebourg,ebourg@apache.org
+commons-jexl,osi,peter.royal@pobox.com
+commons-jexl,grobmeier,None
+commons-jexl,itstechupnorth,None
+commons-jexl,mdiggory,None
+commons-jexl,dennisl,None
+commons-jexl,olamy,olamy@apache.org
+commons-jexl,baahmi,None
+commons-jexl,jvanzyl,jason@takari.io
+commons-jexl,mbenson,gudnabrsam@gmail.com
+commons-jexl,YoavShapira,None

@@ -1,0 +1,11 @@
+axis2-java,dims,davanum@gmail.com
+axis2-java,veithen,None
+axis2-java,steveloughran,None
+axis2-java,aslom,None
+axis2-java,glahiru,lahiru@apache.org
+axis2-java,jochenw,jochen.wiedmann@gmail.com
+axis2-java,itstechupnorth,None
+axis2-java,prabath,prabath@apache.org
+axis2-java,dblevins,david.blevins@gmail.com
+axis2-java,gmcdonald,None
+axis2-java,vr6,None

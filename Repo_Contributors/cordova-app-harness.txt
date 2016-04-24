@@ -1,0 +1,5 @@
+cordova-app-harness,agrieve,agrieve@chromium.org
+cordova-app-harness,shepheb,braden.shepherdson@gmail.com
+cordova-app-harness,mwoghiren,max.woghiren@gmail.com
+cordova-app-harness,mmocny,mmocny@gmail.com
+cordova-app-harness,cmarcelk,None

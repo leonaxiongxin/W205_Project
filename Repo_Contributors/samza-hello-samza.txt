@@ -1,0 +1,18 @@
+samza-hello-samza,criccomini,None
+samza-hello-samza,ept,None
+samza-hello-samza,yanfang724,yanfang724@gmail.com
+samza-hello-samza,ProfZ,None
+samza-hello-samza,jghoman,Do not send me emails
+samza-hello-samza,davidzchen,None
+samza-hello-samza,joestein,None
+samza-hello-samza,omkreddy,manikumar.reddy@gmail.com
+samza-hello-samza,navina,navi.trinity@gmail.com
+samza-hello-samza,nickpan47,nickpan47@gmail.com
+samza-hello-samza,sviterok,None
+samza-hello-samza,BenFradet,None
+samza-hello-samza,icefury71,None
+samza-hello-samza,jeffcjohnson,None
+samza-hello-samza,joseluisdiaz,diazjoseluis@gmail.com
+samza-hello-samza,kgidley,None
+samza-hello-samza,staslos,None
+samza-hello-samza,steven-aerts,None

@@ -1,0 +1,12 @@
+maven-ant-tasks,hboutemy,hboutemy@apache.org
+maven-ant-tasks,brettporter,brett@apache.org
+maven-ant-tasks,pgier,None
+maven-ant-tasks,jvanzyl,jason@takari.io
+maven-ant-tasks,olamy,olamy@apache.org
+maven-ant-tasks,stephenc,None
+maven-ant-tasks,bentmann,None
+maven-ant-tasks,dennisl,None
+maven-ant-tasks,carlossg,carlos@apache.org
+maven-ant-tasks,neonics,None
+maven-ant-tasks,aheritier,aheritier@apache.org
+maven-ant-tasks,ltheussl,None

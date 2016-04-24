@@ -1,0 +1,8 @@
+incubator-streams,steveblackmon,sblackmon@apache.org
+incubator-streams,mfranklin,None
+incubator-streams,rbnks,None
+incubator-streams,robdouglas,None
+incubator-streams,smashew,Matthew.Hager@gmail.com
+incubator-streams,renato2099,rmarroquin@apache.org
+incubator-streams,jletourneau80,None
+incubator-streams,eponvert,eponvert@gmail.com

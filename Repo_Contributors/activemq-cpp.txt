@@ -1,0 +1,2 @@
+activemq-cpp,chirino,hiram@hiramchirino.com
+activemq-cpp,jstrachan,james.strachan@gmail.com

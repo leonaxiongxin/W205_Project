@@ -1,0 +1,2 @@
+nifi-maven,joewitt,joewitt@apache.org
+nifi-maven,mcgilman,matt.c.gilman@gmail.com

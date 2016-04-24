@@ -1,0 +1,5 @@
+apr-iconv,wrowe,wrowe@rowe-clan.net
+apr-iconv,brainy,brane@digiverse.si
+apr-iconv,abannert,aaron-github@codemass.com
+apr-iconv,sstriker,s.striker@striker.nl
+apr-iconv,wsanchez,wsanchez@wsanchez.net

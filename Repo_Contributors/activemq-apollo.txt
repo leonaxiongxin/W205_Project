@@ -1,0 +1,10 @@
+activemq-apollo,chirino,hiram@hiramchirino.com
+activemq-apollo,cmacnaug,colin@neeveresearch.com
+activemq-apollo,dejanb,None
+activemq-apollo,gtully,None
+activemq-apollo,tabish121,tabish121@gmail.com
+activemq-apollo,leiqin,leiqin2010@gmail.com
+activemq-apollo,christian-posta,christian.posta@gmail.com
+activemq-apollo,gnodet,None
+activemq-apollo,rajdavies,rajdavies@gmail.com
+activemq-apollo,shanielh,None

@@ -1,0 +1,11 @@
+maven-jxr,dennisl,None
+maven-jxr,olamy,olamy@apache.org
+maven-jxr,khmarbaise,github@soebes.com
+maven-jxr,michael-o,None
+maven-jxr,bimargulies,None
+maven-jxr,hboutemy,hboutemy@apache.org
+maven-jxr,brettporter,brett@apache.org
+maven-jxr,bentmann,None
+maven-jxr,ltheussl,None
+maven-jxr,jvanzyl,jason@takari.io
+maven-jxr,brianf,None

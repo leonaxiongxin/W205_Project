@@ -1,0 +1,17 @@
+archiva,olamy,olamy@apache.org
+archiva,brettporter,brett@apache.org
+archiva,oching,None
+archiva,jvanzyl,jason@takari.io
+archiva,carlossg,carlos@apache.org
+archiva,ebarboni,skygo@apache.org
+archiva,ndeloof,nicolas.deloof@gmail.com
+archiva,aheritier,aheritier@apache.org
+archiva,forjsharp,forjsharp@gmail
+archiva,jbonofre,jbonofre@apache.org
+archiva,dennisl,None
+archiva,neonics,None
+archiva,ecki,bernd-2016@eckenfels.net
+archiva,emsouza,eduardomatosouza@gmail.com
+archiva,jmutawa,None
+archiva,mfncooper,None
+archiva,svogt,None

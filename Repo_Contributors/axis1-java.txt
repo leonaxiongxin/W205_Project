@@ -1,0 +1,10 @@
+axis1-java,dims,davanum@gmail.com
+axis1-java,rubys,None
+axis1-java,steveloughran,None
+axis1-java,veithen,None
+axis1-java,vr6,None
+axis1-java,aslom,None
+axis1-java,jochenw,jochen.wiedmann@gmail.com
+axis1-java,itstechupnorth,None
+axis1-java,dblevins,david.blevins@gmail.com
+axis1-java,gmcdonald,None

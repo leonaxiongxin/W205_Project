@@ -1,0 +1,12 @@
+avro,cutting,cutting@apache.org
+avro,thiru-apache,None
+avro,dcreager,dcreager@dcreager.net
+avro,rdblue,None
+avro,scottcarey,scottcarey+github@gmail.com
+avro,ept,None
+avro,sharadag,None
+avro,nielsbasjes,None
+avro,busbey,None
+avro,mtth,None
+avro,thiru-verticloud,None
+avro,krschultz,krschultz@gmail.com

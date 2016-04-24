@@ -1,0 +1,15 @@
+tez,hiteshs,hitesh@apache.org
+tez,sidseth,None
+tez,rbalamohan,None
+tez,zjffdu,zjffdu@gmail.com
+tez,sreenaths,sree@apache.org
+tez,jteagles,None
+tez,t3rmin4t0r,gopalv@php.net
+tez,mikelid,None
+tez,gkesavan,gkesavan@apache.org
+tez,tassapol-hortonworks,tathiapinya@hortonworks.com
+tez,bikassaha,None
+tez,hagleitn,hagleitn@yahoo.com
+tez,acmurthy,acm@hortonworks.com
+tez,r0hini,None
+tez,cmbasics,raja@cmbasics.com

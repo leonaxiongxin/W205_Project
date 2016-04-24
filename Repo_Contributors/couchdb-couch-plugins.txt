@@ -1,0 +1,6 @@
+couchdb-couch-plugins,janl,jan@apache.org
+couchdb-couch-plugins,rnewson,rnewson@apache.org
+couchdb-couch-plugins,kxepal,None
+couchdb-couch-plugins,etrepum,bob@redivi.com
+couchdb-couch-plugins,oreinecke,None
+couchdb-couch-plugins,robertkowalski,rok@kowalski.gd

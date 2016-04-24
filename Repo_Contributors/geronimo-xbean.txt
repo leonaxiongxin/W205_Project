@@ -1,0 +1,5 @@
+geronimo-xbean,gnodet,None
+geronimo-xbean,jstrachan,james.strachan@gmail.com
+geronimo-xbean,chirino,hiram@hiramchirino.com
+geronimo-xbean,dblevins,david.blevins@gmail.com
+geronimo-xbean,jvanzyl,jason@takari.io

@@ -1,0 +1,3 @@
+nuvem,lresende,lresende@apache.org
+nuvem,jsdelfino,jsdelfino@apache.org
+nuvem,raymondfeng,None

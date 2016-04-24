@@ -1,0 +1,9 @@
+commons-functor,simonetripodi,simonetripodi@apache.org
+commons-functor,mbenson,gudnabrsam@gmail.com
+commons-functor,kinow,brunodepaulak@yahoo.com.br
+commons-functor,sebbASF,None
+commons-functor,olamy,olamy@apache.org
+commons-functor,britter,None
+commons-functor,dennisl,None
+commons-functor,mcucchiara,mcucchiara@apache.org
+commons-functor,rahu1,None
