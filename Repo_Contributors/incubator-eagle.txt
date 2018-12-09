@@ -2,7 +2,7 @@ incubator-eagle,haoch,hao@apache.org
 incubator-eagle,sunlibin,abnersunlibin@gmail.com
 incubator-eagle,yonzhang,None
 incubator-eagle,zombieJ,None
-incubator-eagle,qingwen220,qingwzhao@ebay.com
+incubator-eagle,qingwen220,qingwen220@gmail.com
 incubator-eagle,chaitaligupta,None
 incubator-eagle,hdendukuri,None
 incubator-eagle,qinzhaokun,qinzhaokun@gmail.com
